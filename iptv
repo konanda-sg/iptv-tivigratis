@@ -243,7 +243,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 ==========================INDIHOME=================================================
 
-itle="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR
+https://cdn09jtedge.indihometv.com/joss/133/bumperslate/chunklist_w1322136020_b894100_sleng.m3u8
+#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV
+https://cdn12jtedge.indihometv.com/joss/133/bumperslate/chunklist_w639768999_b894100_sleng.m3u8
+#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_atv_small.png",ATV
+https://cdn12jtedge.indihometv.com/atm/HLS-10s/atv/atv.mpd
+#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
@@ -252,7 +264,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png",TV ONE
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/tvone/manifest.mpd
+https://cdn11jtedge.indihometv.com/atm/HLS-10s/tvone/tvone.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
