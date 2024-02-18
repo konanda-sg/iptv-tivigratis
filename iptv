@@ -80,7 +80,7 @@ https://v6.siar.us:443/madutv/hd720/chunks.m3u8
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAWA POS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708265555/ei/87vRZdHPFoDx4-EPufSwuAE/ip/103.105.27.76/id/gSHOGWKBveA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-uigxxi0ujipnvo-ngbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9f-6_8D7Wb-XhYdiQk9HeeUd7KQ0nPR4oOAVAh6InqFVX2o0OLW3yUQJszk4/vprv/1/playlist_type/DVR/initcwndbps/345000/mh/y8/mm/44/mn/sn-uigxxi0ujipnvo-ngbz/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708243473/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRQIgE0dM2sCZ1iZ7Dn5qUlu65O98Oqdzdxl7BEZgC26AQ8wCIQC82nb949VfftLsQ6pydwb8j4d4f4zkXHasCpzzWcsDQA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhAOyWm5GpeIOq2YN0PrNde9lM4uzYxRxzA1eqXbRHat4rAiBCPYrRt_tchr2EQnHHr9hMQ866ANmaGQXbE3j9wfl_Ow%3D%3D/playlist/index.m3u8
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
@@ -94,18 +94,6 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
 
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BALI TV
-https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
-
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAK TV
-https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JTV
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Bandung TV
-https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JITV HD
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
