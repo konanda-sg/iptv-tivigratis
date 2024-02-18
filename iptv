@@ -243,19 +243,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 ==========================INDIHOME=================================================
 
-#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
-https://cors.lim.workers.dev/https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD-mp4a_98800_eng=3-2881772273205902.mp4
-#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI
-https://cors.lim.workers.dev/https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-mp4a_98800=10-2881773628428107.mp4
-#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV
-https://cors.lim.workers.dev/https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD-mp4a_98800_eng=3-2881774720882731.mp4
-#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR
-https://cors.lim.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/bumperslate/chunklist_w1322136020_b894100_sleng.m3u8
-#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV
-https://cors.lim.workers.dev/https://cdn12jtedge.indihometv.com/joss/133/bumperslate/chunklist_w639768999_b894100_sleng.m3u8
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_atv_small.png",ATV
 https://cdn12jtedge.indihometv.com/atm/HLS-10s/atv/atv-avc1_800000=3.m3u8?encp=R_C-j7hAPUU2XPYY4eCwvQ&uid=&expp=1708258069
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
