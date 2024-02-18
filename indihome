@@ -1,7 +1,7 @@
 ==========================INDIHOME=================================================
 
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_atv_small.png",ATV
-https://cdn12jtedge.indihometv.com/atm/HLS-10s/atv/atv-avc1_800000=3.m3u8?encp=R_C-j7hAPUU2XPYY4eCwvQ&uid=&expp=1708258069
+https://cors.lim.workers.dev/https://cdn12jtedge.indihometv.com/dassdvr/196/atv/manifest.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
