@@ -294,7 +294,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ATV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn12jtedge.indihometv.com/atm/HLS-10s/atv/atv-avc1_800000=3.m3u8?encp=R_C-j7hAPUU2XPYY4eCwvQ&uid=&expp=1708258069
+https://cors.lim.workers.dev/https://cdn12jtedge.indihometv.com/dassdvr/196/atv/manifest.mpd
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KUNGFU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
