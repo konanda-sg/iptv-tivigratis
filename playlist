@@ -1429,31 +1429,31 @@ http://fpt.vthanhtivi.pw/Box_Hits/index.m3u8
 http://fpt.vthanhtivi.pw/In_The_Box/tracks-v1a1/mono.m3u8
 http://gg.gg/HaNoiIPTV-In_The_Box_Channel
 
-#EXTINF:-1 tvg-chno="" tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://i.imgur.com/SYOqA7z.png" group-title="🍿 MOVIES🍿 ",SAMURAI
+#EXTINF:-1 tvg-chno="" tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://i.imgur.com/SYOqA7z.png" group-title="MOVIES",SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
  
-#EXTINF:-1 tvg-chno="" tvg-id="BOXFILM.th" tvg-name="BOX FILM" tvg-logo="https://i.imgur.com/ACIoLb2.png" group-title="🍿 MOVIES🍿 ",BOX FILM
+#EXTINF:-1 tvg-chno="" tvg-id="BOXFILM.th" tvg-name="BOX FILM" tvg-logo="https://i.imgur.com/ACIoLb2.png" group-title="MOVIES",BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
  
-#EXTINF:-1 tvg-chno="" tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" tvg-logo="https://i.imgur.com/2QbShex.png" group-title="🍿 MOVIES🍿 ",MOVIES WORLD 1
+#EXTINF:-1 tvg-chno="" tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" tvg-logo="https://i.imgur.com/2QbShex.png" group-title="MOVIES",MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
  
-#EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="🍿 MOVIES🍿 ",B4U MOVIES
+#EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="MOVIES ",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
  
-#EXTINF:-1 tvg-chno="" tvg-id="Mangorn" tvg-name="Mangorn" tvg-logo="https://i.imgur.com/vMWjnIm.png" group-title="🍿 MOVIES🍿 ",Mangorn
+#EXTINF:-1 tvg-chno="" tvg-id="Mangorn" tvg-name="Mangorn" tvg-logo="https://i.imgur.com/vMWjnIm.png" group-title="MOVIES",Mangorn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="" tvg-id="JOM YUT" tvg-name="JOM YUT" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg" group-title="🍿 MOVIES🍿 ",JOM YUT
+#EXTINF:-1 tvg-chno="" tvg-id="JOM YUT" tvg-name="JOM YUT" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg" group-title="MOVIES",JOM YUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/dochannel/dochannel.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="" tvg-id="MEDIA TV" tvg-name="MEDIA TV" tvg-logo="https://i.imgur.com/EQJuS1H.png" group-title="🍿 MOVIES🍿 ",MEDIA TV
+#EXTINF:-1 tvg-chno="" tvg-id="MEDIA TV" tvg-name="MEDIA TV" tvg-logo="https://i.imgur.com/EQJuS1H.png" group-title="MOVIES",MEDIA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
  
@@ -1483,20 +1483,20 @@ https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="MOVIES",EBC Foreign Movies
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png" group-title="🍿 MOVIES🍿 ",Action Hollywood Movies
+#EXTINF:-1 tvg-chno="" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png" group-title="MOVIES",Action Hollywood Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="" tvg-id="7flix" tvg-name="7flix" tvg-logo="https://i.imgur.com/8uCqGhY.png" group-title="🍿 MOVIES🍿 ",7flix
+#EXTINF:-1 tvg-chno="" tvg-id="7flix" tvg-name="7flix" tvg-logo="https://i.imgur.com/8uCqGhY.png" group-title="MOVIES",7flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="🍿 MOVIES🍿 ",ETV BIOSKOP 1 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES",ETV BIOSKOP 1 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="🍿 MOVIES🍿 ",ETV BIOSKOP 2 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES",ETV BIOSKOP 2 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="🍿 MOVIES🍿 ",ETV BIOSKOP 3 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES ",ETV BIOSKOP 3 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="🍿 MOVIES🍿 ",ETV BIOSKOP 4 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES",ETV BIOSKOP 4 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 =========================================== HBO GROUP ===========================================
 
@@ -5165,14 +5165,22 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1716
 
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="INDIA",MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="INDIA",Bollywood Classic (1080p)
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="INDIA",Bollywood HD (1080p)
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" tvg-logo="",B4U MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtvplay.com/amedia/stream.php?id=472181
-#EXTINF:-1 group-title="INDIA" tvg-logo="",B4U MOVIES
+
+#EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="INDIA" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="INDIA ",B4U MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Zee India
 http://103.120.172.74:1040
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star India
