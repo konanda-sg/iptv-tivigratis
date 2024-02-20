@@ -15,12 +15,14 @@ https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (HTV)
 https://s.id/21ogW-indosiar|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (D*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/indosiar
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (X)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (S*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 #http://startv365.com:80/D85A79B4/55A7743D/45098
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (D*)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -33,12 +35,14 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (HTV)
 https://s.id/21ohu-sctv|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (D*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (X)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (S*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 #http://startv365.com:80/D85A79B4/55A7743D/45099
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (D*)
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -94,7 +98,8 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (X)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -303,74 +308,6 @@ http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="NATIONAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-
-================= LOCAL (KBTV)=======================
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",SCTV 1
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",SCTV 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",INDOSIAR 1
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",INDOSIAR 2
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",MOJI
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
-#EXTINF:0 tvg-id="gtv.il" group-title="📺 LOCAL",GTV
-https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",TV9 Nu
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",iNews
-https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",MOJI
-https://fmtv-premium.me/denstv/h/h210/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",TransTV HD
-https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",Trans7 HD
-https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",JAKTV
-https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#EXTINF:0 tvg-id="ext" group-title=" 📺 LOCAL",TVONE
-https://mangga-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",RCTI
-https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",MNCTV
-https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",MNC News
-https://mangga-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",Kompas TV
-https://mangga-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:0 tvg-id="NetTV.hr" group-title="📺 LOCAL",Net.
-https://mangga-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTINF:0 tvg-id="Metro.pl" group-title="📺 LOCAL",Metro TV
-https://mangga-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTINF:0 tvg-id="rtvint" group-title="📺 LOCAL",RTV
-https://mangga-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",ANTV
-https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",JTV
-https://mangga-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",BALI TV
-https://mangga-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",DAAI TV
-https://mangga-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",BandungTV
-https://mangga-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",TV Muhammadiyah
-https://mangga-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",TV9
-https://mangga-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",MNC Muslim
-https://mangga-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",Sportstars 1 HD
-https://mangga-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",Sportstars 2 HD
-https://mangga-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",Sportstars 3 HD
-https://mangga-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL",Sportstars 4 HD
-https://mangga-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 =============================== TV DIGITAL ===========================================
