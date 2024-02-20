@@ -304,6 +304,75 @@ http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="NATIONAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
+================= LOCAL (KBTV)=======================
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",SCTV 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",SCTV 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",INDOSIAR 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",INDOSIAR 2
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",MOJI
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+#EXTINF:0 tvg-id="gtv.il" group-title="📺 LOCAL 2",GTV
+https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",TV9 Nu
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",iNews
+https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",MOJI
+https://fmtv-premium.me/denstv/h/h210/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",TransTV HD
+https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",Trans7 HD
+https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2",JAKTV
+https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:0 tvg-id="ext" group-title=" 📺 LOCAL 2 ",TVONE
+https://mangga-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",RCTI
+https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",MNCTV
+https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",MNC News
+https://mangga-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",Kompas TV
+https://mangga-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:0 tvg-id="NetTV.hr" group-title="📺 LOCAL 2 ",Net.
+https://mangga-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:0 tvg-id="Metro.pl" group-title="📺 LOCAL 2 ",Metro TV
+https://mangga-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#EXTINF:0 tvg-id="rtvint" group-title="📺 LOCAL 2 ",RTV
+https://mangga-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",ANTV
+https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",JTV
+https://mangga-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",BALI TV
+https://mangga-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",DAAI TV
+https://mangga-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",BandungTV
+https://mangga-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",TV Muhammadiyah
+https://mangga-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",TV9
+https://mangga-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",MNC Muslim
+https://mangga-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",Sportstars 1 HD
+https://mangga-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",Sportstars 2 HD
+https://mangga-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",Sportstars 3 HD
+https://mangga-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="📺 LOCAL 2 ",Sportstars 4 HD
+https://mangga-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
 =============================== TV DIGITAL ===========================================
 
 #EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MNCTV
@@ -1290,7 +1359,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png"group-title="MOVIES",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
@@ -5171,11 +5240,6 @@ https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index
 
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="INDIA",Bollywood HD (1080p)
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" tvg-logo="",B4U MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
-https://mhdtvplay.com/amedia/stream.php?id=472181
 
 #EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="INDIA" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="INDIA ",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
