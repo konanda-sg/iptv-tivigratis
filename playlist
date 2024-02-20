@@ -455,7 +455,7 @@ http://103.113.116.150:25461/mtm1/12345/134
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="KIDS TV" tvg-logo="https://hometv.pw/logo/kids/kidstv.png" group-title="KIDS",KIDS TV (V+)
+#EXTINF:-1 tvg-name="KIDS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",KIDS TV (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -470,7 +470,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg",MIAO MI (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 tvg-name="MENTARI TV" tvg-logo="https://hometv.pw/logo/kids/mentari.png" group-title="KIDS",MENTARI TV (Indi)
+#EXTINF:-1 tvg-name="MENTARI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="KIDS",MENTARI TV (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -593,13 +593,13 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:-1 group-title="KIDS" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",Kids Staton TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
-#EXTINF:1  group-title="KIDS",ABC KIDS
+#EXTINF:1  group-title="KIDS" tvg-id="abckids" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ABC_Kids_Logo.svg/1200px-ABC_Kids_Logo.svg.png",ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:1 group-title="KIDS",ABC ME
+#EXTINF:1  group-title="KIDS" tvg-id="abcme" tvg-logo ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/defmf9a-7ad261d3-5810-4853-a213-413d257c6356.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MFwvZGVmbWY5YS03YWQyNjFkMy01ODEwLTQ4NTMtYTIxMy00MTNkMjU3YzYzNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VEon6PqouajiCEMNNTfQEKwKSVGIersIBywRNqtVrPs",ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:1 group-title="KIDS",BABYBUS YT
+#EXTINF:1 group-title="KIDS" tvg-id=babybus' tvg-logo="https://picfile-baidu.babybus.com/PageArea/BabyBusFile/20220720/b40431f453854883b90c1df7b31a688f.png",BABYBUS YT
 https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 
 #EXTINF:1 group-title="KIDS",BABY FIRST
