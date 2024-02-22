@@ -2822,7 +2822,34 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
 
 =========================================== FMX ===========================================
-
+#EXTINF:-1 tvg-logo="" group-title="FMX",INDOSIAR_(s.id)
+https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",USEE_1_(s.id)
+https://s.id/useesport_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",USEE_2_(s.id)
+https://s.id/useesport2_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",INEWS_(s.id)
+https://s.id/inews_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",RCTI_(s.id)
+https://s.id/rcti_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",MNCTV_(s.id)
+https://s.id/mnctv_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",GTV_(s.id)
+https://s.id/gtv_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",TRANSTV_(s.id)
+https://s.id/transtv_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",TRANS7_(s.id)
+https://s.id/trans7_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",SCTV_(s.id)
+https://s.id/sctv_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",NETTV_(s.id)
+https://s.id/nettv_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",ANTV_(s.id)
+https://s.id/antv_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",TVONE_(s.id)
+https://s.id/tvone_shareext-m3u8|User-Agent=Shareext/5.0
+#EXTINF:-1 tvg-logo="" group-title="FMX",KOMPASTV_(s.id)
+https://s.id/kompastv_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1 group-title="FMX" tvg-logo="",abc
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/abc.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
