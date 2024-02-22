@@ -675,6 +675,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="AL QURAN AL KAREEM" tvg-logo="https://hometv.pw/logo/religi/alquran.png" group-title="RELIGI",AL QURAN AL KAREEM (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 tvg-id="63229" tvg-name="Al Quran Al Kareem" tvg-logo="https://i.postimg.cc/0yKchG5R/small-31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="RELIGI" ,Al Quran Kareem
+https://edge.taghtia.com/sa/7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -684,6 +686,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://hometv.pw/logo/religi/tv9.png" group-title="RELIGI",TV9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+#EXTINF:0 tvg-id="AjwaTV.id" tvg-name="Ajwa TV" ch-id="7464"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png" group-title="RELIGI" ,Ajwa TV
+https://srtv.my.id/vd/play.m3u8?id=7464&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -706,7 +711,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 #https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708264509/ei/3bfRZbfSC-Dg4t4Piu2PqAQ/ip/103.105.27.76/id/-mr6TD6YxR8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-uigxxi0ujipnvo-ngbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9f5irvMtLK3SV5mT3tw_qkguT_CMA3y7bni3-S4hT57dYXElH6UlBngWS4Kc/vprv/1/playlist_type/DVR/initcwndbps/391250/mh/Z0/mm/44/mn/sn-uigxxi0ujipnvo-ngbs/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708242050/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRAIgCc2OvgoXSBbV-ovOb5kPLeMXdXXLQwkVRStKUsP3mt8CIFA-kf3eGEmRc9ZbFDkQzglW3gwdUSNGGSt_bCkbXsd4/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/APTiJQcwRQIhAK9GTQWjI0xW8lhp5WRhBKjYWM-6TqY0eMVCF2ze0BsoAiB6QpHtPyRBzxpxDqF0HARcyudCyHlEgGp-mkA_nWpeGA%3D%3D/playlist/index.m3u8
-
+#EXTINF:-1 tvg-id="MADINAHTV.id" tvg-name="MADINAH TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="RELIGI" ,MADINAH TV
+https://edge.taghtia.com/sa/6.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
