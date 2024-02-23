@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+======================= PLAYLIST INI GRATIS,HARAM JIKA DIPERJUALBELIKAN =============================
+======================== PLAYLIST INI DIAMBIL DARI BEBERAPA SUMBER ==================================
+================================ HARAP GUNAKAN DENGAN BIJAK =========================================
+============================== GUNAKAN UNTUK KONSUMSI PRIBADI =======================================
+
+
+
 =========================================== NATIONAL ===========================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -8,6 +15,7 @@
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="NATIONAL",MNC TV (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="NATIONAL",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
@@ -15,16 +23,20 @@ https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (HTV)
 https://s.id/21ogW-indosiar|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (X)
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (Ex)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (S*)
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (StarTv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 #http://startv365.com:80/D85A79B4/55A7743D/45098
+
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (V*)
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (Vidio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=205&type=hls
@@ -35,22 +47,27 @@ https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="NATIONAL",RCTI (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="NATIONAL",RCTI (R+)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (HTV)
 https://s.id/21ohu-sctv|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (X)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (S*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 #http://startv365.com:80/D85A79B4/55A7743D/45099
+
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (V*)
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (Vidio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=204&type=hls
@@ -60,6 +77,7 @@ https://srtv.my.id/vd/play.m3u8?id=204&type=hls
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="NATIONAL",GTV (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="NATIONAL",GTV (R+)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
@@ -69,6 +87,7 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="NATIONAL",TRANS TV (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="NATIONAL",TRANS TV (D)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
@@ -77,6 +96,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="NATIONAL",TRANS 7 (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="NATIONAL",TRANS 7 (D)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
@@ -85,6 +105,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="NATIONAL",ANTV (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="NATIONAL",ANTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -94,6 +115,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="NATIONAL",RTV (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="NATIONAL",RTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
@@ -101,16 +123,21 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL", MOJI (HTV)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://s.id/1YseN
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (S*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (X)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI  (V*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -296,7 +323,6 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="NATIONAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU" group-title="NATIONAL",JITV HD
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
@@ -479,64 +505,61 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:1 group-title="KIDS" tvg-id=babybus' tvg-logo="https://picfile-baidu.babybus.com/PageArea/BabyBusFile/20220720/b40431f453854883b90c1df7b31a688f.png",BABYBUS YT
 https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 
-#EXTINF:1 group-title="KIDS",BABY FIRST
+#EXTINF:1 group-title="KIDS" tvg-logo="https://www.google.com/search?client=lightning&ie=UTF-8&oe=UTF-8&q=baby+first+logo+png",BABY FIRST
 https://i.mjh.nz/SamsungTVPlus/INBC280001662.m3u8
 
-#EXTINF:1 group-title="KIDS",Baby Shark TV
+#EXTINF:1 group-title="KIDS" tvg-logo="https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo",BABY SHARK TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
 
-#EXTINF:1 group-title="KIDS",CARTOON NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
-
-#EXTINF:1 group-title="KIDS",CARTOONITO
+#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png",CARTOONITO
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
-#EXTINF:1 group-title="KIDS",DORA TV
+#EXTINF:1 group-title="KIDS" tvg-logo="data:image/png;base64,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,DORA TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
 
-#EXTINF:1 group-title="KIDS",DUNIA ANAK
+#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png",DUNIA ANAK
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-#EXTINF:1 group-title="KIDS",FUN PLANET
+#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/2048px-Fun_Planet.png",FUN PLANET
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
-#EXTINF:1 group-title="KIDS",KIDS FLIK
+#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2UaM9n31vmUhHAxV1Xun4tzo_tRw8rATBiQ&usqp=CAU",KIDS FLIK
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:1 group-title="KIDS",LEGO KIDS TV
+#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDi8VjpBBfOpoQYvHPUorJutZ-jpsLy5UMYZiyHhOR1w&s",LEGO KIDS TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
 
-#EXTINF:1 group-title="KIDS",LEO WILDLIFE GUARD YT 
+#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1izU6Tw11ZWMvvJDMzI55eLIZ4WKWaCjiA&usqp=CAU",LEO WILDLIFE
 https://ythls-v2.onrender.com/channel/UCiuu1WKCPw8VPasHoRE3NZA.m3u8
 
-#EXTINF:1 group-title="KIDS",MY LITTLE PONY YT
+#EXTINF:1 group-title="KIDS" tvg-logo="https://www.freepnglogos.com/uploads/little-pony-png/image-little-pony-mobile-game-logo-little-29.png",MY LITTLE PONY
 https://ythls-v2.onrender.com/channel/UCDRCl6JTjDKjyquagRWrkgA.m3u8
 
-#EXTINF:1 group-title="KIDS",TAYO YT
+#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tayo_The_Little_Bus_English_logo.png",TAYO YT
 https://ythls-v2.onrender.com/channel/UCUaZwCnn6Z-16BmkKngSs0g.m3u8
 
-#EXTINF:1 group-title="KIDS",TOONS KIDS
+#EXTINF:1 group-title="KIDS" tvg-logo="https://ph-files.imgix.net/92415761-74ab-471a-aa12-2132ebe5f077.png?auto=format",TOON KIDS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 
-#EXTINF:1 group-title="KIDS",TRANSFORMERS
+#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Tx89tATA4lsbEZewLyAbv9GkuuG5us_vZw&usqp=CAU",TRANSFORMERS ANIMATED
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
 
-#EXTINF:1 group-title="KIDS",SPONGEBOB SQUARPANTS
+#EXTINF:1 group-title="KIDS" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png",SPONGEBOB SQUARPANTS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-a3ec4423-847a-43d4-9526-9de121b7ef66&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=stitcher-ipv4.pluto.tv&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=328affc2-52c0-4970-8b1a-210f6ae048e5&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&advertisingId={PSID}&profileLimit=&profileFloor=
 
-#EXTINF:-1 group-title="KIDS",TELETUBBIES
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5a/Teletubbies_Logo.png",TELETUBBIES
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS",NARUTO
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png",NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="KIDS",ONE PIECE
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://c3.klipartz.com/pngpicture/969/328/sticker-png-one-piece-anime-icon-v2-one-piece-thumbnail.png",ONE PIECE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="KIDS",AFARIN TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShO1UgMNbwNch_ciN3w-sWUdEfuzw9mByreg&usqp=CAU",AFARIN TV
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS",BALAPAN TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO4qM5OWcFFuKMiqLRpJ-jOu93juAbDDQqA&usqp=CAU",BALAPAN TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
 =========================================== RELIGI ===========================================
@@ -2822,8 +2845,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
 
 =========================================== FMX ===========================================
-
-
 #EXTINF:-1 tvg-logo="" group-title="FMX",INDOSIAR_(s.id)
 https://s.id/indosiar_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1 tvg-logo="" group-title="FMX",USEE_1_(s.id)
@@ -2852,6 +2873,8 @@ https://s.id/antv_shareext-m3u8|User-Agent=Shareext/5.0
 https://s.id/tvone_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1 tvg-logo="" group-title="FMX",KOMPASTV_(s.id)
 https://s.id/kompastv_shareext-m3u8|User-Agent=Shareext/5.0
+
+
 
 
 #EXTINF:-1 group-title="FMX" tvg-logo="",abc
