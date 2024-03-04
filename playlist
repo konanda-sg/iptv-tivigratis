@@ -5258,14 +5258,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://cdn2.pishow.tv/live/160/master.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="INDIA",B4U Movies
 http://cdn2.pishow.tv/live/156/master.m3u8 
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="INDIA",Colors Cineplex Bollywood
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="INDIA",Colors Cineplex Superhits
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="INDIA",Colors HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="INDIA",Colors Rishtey
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8 
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/8cFgR0s3/download-2.jpg",Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+
 EXTINF:-1 tvg-id="Nazara.in" tvg-logo="https://iili.io/Jcmigvs.png" group-title="INDIA",Nazara (DD FREE DISH)
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 tvg-id="Nazara.in" tvg-logo="https://iili.io/Jcmigvs.png" group-title="INDIA",Nazara (Dish Tv)
@@ -5274,8 +5271,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://cdn2.pishow.tv/live/159/master.m3u8
 #EXTINF:-1 tvg-id="Sony TV.in" tvg-logo="https://iili.io/JcmQVa9.png" group-title="INDIA",Sony TV SD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/master.m3u8
-#EXTINF:-1 tvg-id="Colors Cineplex HD.in" tvg-logo="https://iili.io/JcpVFLl.png" group-title="INDIA",Colors Cineple HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/fb32TVxH/Bollywood-Hungama.jpg",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/KzmBgP5J/Bollywood-Prime-thumbnail.png",Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 tvg-id="Bollywood Classic.in" tvg-logo="https://iili.io/JcpXSql.png" group-title="INDIA",Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood HD.in" tvg-logo="https://iili.io/JcpvgRV.png" group-title="INDIA",Bollywood HD
@@ -5290,26 +5289,67 @@ http://cdn1.pishow.tv/live/222/master.m3u8
 http://cdn2.pishow.tv/live/140/master.m3u8
 #EXTINF:-1 tvg-id="Sony Max 2.in" tvg-logo="https://iili.io/JcpWqZv.png" group-title="INDIA",Sony Max 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee India
-http://103.120.172.74:1040
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star India
-http://103.120.172.74:1060
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Colors
-http://103.120.172.74:1070
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony SAB
-http://103.120.172.74:1080
-#EXTINF:-1 group-title="INDIA" tvg-logo="",India news
-http://103.120.172.74:1090
-#EXTINF:-1 group-title="INDIA" tvg-logo="",StarPlus
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Kvd04ppM/640px-Colors-Cineplex-Superhits-logo.jpg",Colors Cineplex Superhit
+http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/GmtsZ6bH/Dangal.png",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/GmtsZ6bH/Dangal.png",Dangal [SamsungTVPlus]
+https://amg01448-samsungin-enterr10dangal-samsungin-ad-4y.amagi.tv/playlist/amg01448-samsungin-enterr10dangal-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/DzKK1Rf8/dangal.jpg",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/zBjXGLzL/Shemaroo-Bollywood.jpg",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/QtPV3fWg/Sony-MAX-HD-WHITE.png",Sony Max HD
+http://89.187.177.137:8081/SONYMAX/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/pL20phnb/Sony-MAX2.png",Sony Max 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/fLkkpGkT/SONY-SAB-HD-WHITE.png",Sony Sab HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6571/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/T3jTNT4r/image_76.jpg",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/5NhRFdq2/Star-Gold-HD-2011.jpg",Star Gold HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/wjJHVg8F/Star-Gold-2.jpg",Star Gold 2
+http://itspkg.in/ttv/play.php?tv=976
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/dVrBZxSH/6tYyCw9.jpg",Star Gold Select HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/254q1qtn/Star-Plus.jpg",Star Plus
 http://103.120.172.74:1120
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee TV
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/tTz460TV/He7ebQT.jpg",Star Plus HD
+http://148.113.5.31:8106/play/a00i/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/qqChj2wv/The-Movie-Club.png",The Movie Club [SamsungTVPlus]
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/3JmXtXcb/iGg6i93.png",Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/pdFsD6r2/sjM1MbFR.jpg",Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/dVdvdMNt/sjM1MbFR.jpg",Zee Cinema HD
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/VvS28M3L/Zee-Hindustan1.jpg",Zee Hindustan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/SNRxnvpJ/image-1.jpg",Zee News
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
 http://103.120.172.74:1140
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max
-http://103.120.172.74:1150
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold
-http://103.120.172.74:5000
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony HD
-http://103.120.172.74:5100
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX
+http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
+http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/tJdW6hX2/SUNBANGLACINEMA.jpg",Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/wxQvYFXZ/tom-and-jerry-PNG42.jpg",24/7 Tom & Jerry Classic
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/3xPN5CVW/flix.jpg",& flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/nL4J5yhC/prive-HD.jpg",& prive HD
+http://89.187.177.137:8081/&PRIVE/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Xvvk1YYh/Action-Hollywood-Movies.png",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="INDIA tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/0769bb08-fe18-4211-918b-5cabad36229b/0.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="INDIA",&TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/andtv-audio_208482_und=208000-video=562400.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",&TV HD
@@ -5322,7 +5362,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=562400.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",ZEE ACTION
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" group-title="INDIA" ,ZEE ACTION
+#EXTINF:-1, tvg-id="EPG N/A" group-INDIA="TVKU" ,ZEE ACTION
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" group-title="INDIA" ,ZEE CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=2137600.m3u8
@@ -5336,20 +5376,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",SONY CHANNEL Ã°Å¸â€¡ÂªÃ°Å¸â€¡Â¸ Ã°Å¸â€¡ÂºÃ°Å¸â€¡Â¸
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX Ã°Å¸â€¡Â®Ã°Å¸â€¡Â³
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX HD Ã°Å¸â€¡Â®Ã°Å¸â€¡Â³
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX 2 Ã°Å¸â€¡Â®Ã°Å¸â€¡Â³
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="INDIA",SONY PIX Ã°Å¸â€¡Â®Ã°Å¸â€¡Â³
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
 #EXTINF:-1 group-title="INDIA",JOO MUSIC
-https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8?nimblesessionid=47562074
+https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8?nimblesessionid=47621118
 #EXTINF:-1 group-title="INDIA",BBO HD
 https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u8?hdntl=exp=1709654711~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=443195a64322e85187abdc6ff15b0ccd1807b90dfff6a984830dc4014e17782d
 #EXTINF:-1 group-title="INDIA",BBO CLASSIC
 https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b2628000.m3u8?hdntl=exp=1709654788~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=8fdeecd6f571bfcb83e5a1f0440779077d7cbf66c5d1d0e94b45120993c90f68&hdnts=st=1709568387~exp=1709571987~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=8be4164d1392ec83657332ceb99ead4b9a50be1a43090abb9f968850f208f14f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1
+
 
 
 =====================================================
