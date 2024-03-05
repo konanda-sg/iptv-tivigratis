@@ -5372,14 +5372,15 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",SONY CHANNEL Ã°Å¸â€¡ÂªÃ°Å¸â€¡Â¸ Ã°Å¸â€¡ÂºÃ°Å¸â€¡Â¸
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
-#EXTINF:-1 group-title="INDIA",JOO MUSIC
-https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8?nimblesessionid=47621118
-#EXTINF:-1 group-title="INDIA",BBO HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBqBEkfH4J6pG3xv_h1GjdK63H0pcsrC2wA&usqp=CAU",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMjHT7T-SkEfen1xC5ycni3BtF8JfSgIZSg&usqp=CAU"   group-title="INDIA",BBO HD
 https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u8?hdntl=exp=1709654711~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=443195a64322e85187abdc6ff15b0ccd1807b90dfff6a984830dc4014e17782d
-#EXTINF:-1 group-title="INDIA",BBO CLASSIC
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UJvurKtXJga6wJDg2hFB5tgt6BCMRW7nFw&usqp=CAU",BBO CLASSIC
 https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b2628000.m3u8?hdntl=exp=1709654788~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=8fdeecd6f571bfcb83e5a1f0440779077d7cbf66c5d1d0e94b45120993c90f68&hdnts=st=1709568387~exp=1709571987~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=8be4164d1392ec83657332ceb99ead4b9a50be1a43090abb9f968850f208f14f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1
 
-
+#EXTINF:-1 group-tittle="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbuxF_QDAWJJXF6ZG_ZCsFCPyjyZBpbdOqA&usqp=CAU",FILM WORLD
+https://mhdtvplay.com/mjunoon/stream.m3u8?chunks=4d0231000c060936f3725b3825992ddf550d6aa567f212cfae028be792cefe66b9bdd941fd1f21c1cd9343057bd2adaa4c4879b42fcae3fc333f5a39d43c6707fee2123c16b645984e82a17b2471543f593813702de7e0c1356f71875f57190fdb6718f46b82c00515b45c1676fb82a9781b87d230119986d48ed45fed45ff84a3714f5abefbd61473c9713a81dc8f05079368476c4ca038192fb302252351744488961263e2e1d201bdc75deed98c1561e9c47c645ce83377d38be0bd7f6c93c5da1e452c393c6f86fb65ff4c6b19a475fc6d901fa6810a0d2b76865f945f9d
 
 =====================================================
 
