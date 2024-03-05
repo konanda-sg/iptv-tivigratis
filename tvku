@@ -187,44 +187,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 
 #EXTINF:-1 tvg-id="9XM.Music" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="TVKU",9XM Music
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="TVKU",9XM Music 1+
 http://cdn2.pishow.tv/live/137/master.m3u8
-
 #EXTINF:-1 tvg-id="B4UMusicIndia.in" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="TVKU",B4U Music 
 http://cdn2.pishow.tv/live/141/master.m3u8 
-
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="TVKU",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
-
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="TVKU",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="TVKU",Music India
 http://cdn2.pishow.tv/live/135/master.m3u8
-
 #EXTINF:-1 tvg-id="Mastiiii.in" tvg-logo="https://iili.io/JcmttkX.jpg" group-title="TVKU",Mastiiii
 http://cdn2.pishow.tv/live/136/master.m3u8
-
 #EXTINF:-1 tvg-id="9X Jhakaas.in" tvg-logo="https://iili.io/JcmthLx.jpg" group-title="TVKU",9X Jhakaas
 http://cdn1.pishow.tv/live/219/master.m3u8
-
 #EXTINF:-1 tvg-id="9X Jalwa.in" tvg-logo="https://iili.io/JcmtGee.png" group-title="TVKU",9X Jalwa
 http://cdn2.pishow.tv/live/133/master.m3u8 
-
 #EXTINF:-1 tvg-id="Choicetv.in" tvg-logo="https://iili.io/JcpQg5X.md.png" group-title="TVKU",ChoiceTV
 http://103.206.104.208:8080/channel/choicetv/index.m3u8
-
 #EXTINF:-1 tvg-id="HindiHitsHD.in" tvg-logo="" group-title="TVKU",HindiHits HD
 http://146.59.253.52:8080/hindihitshd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Zing.in" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="TVKU",Zing!
-http://183.89.246.119:8881/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="Zing.in" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="TVKU",Zing!
-http://khano.nng.cloudns.us/live/m3u8/hnd/zing.m3u8
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="TVKU",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="TVKU",B4U Kadak
+http://cdn2.pishow.tv/live/160/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="TVKU",Disney Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneych.m3u8
@@ -910,11 +898,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 http://cdn2.pishow.tv/live/160/master.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="TVKU",B4U Movies
 http://cdn2.pishow.tv/live/156/master.m3u8 
-
 #EXTINF:-1 group-title="TVKU" tvg-logo="https://i.postimg.cc/8cFgR0s3/download-2.jpg",Arabica Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-
 EXTINF:-1 tvg-id="Nazara.in" tvg-logo="https://iili.io/Jcmigvs.png" group-title="TVKU",Nazara (DD FREE DISH)
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 tvg-id="Nazara.in" tvg-logo="https://iili.io/Jcmigvs.png" group-title="TVKU",Nazara (Dish Tv)
@@ -959,7 +944,7 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6571/index.m3u8
 #EXTINF:-1 group-title="TVKU" tvg-logo="https://i.postimg.cc/T3jTNT4r/image_76.jpg",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/5NhRFdq2/Star-Gold-HD-2011.jpg",Star Gold HD
+#EXTINF:-1 group-title="TVKU" tvg-logo="https://i.postimg.cc/5NhRFdq2/Star-Gold-HD-2011.jpg",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 group-title="TVKU" tvg-logo="https://i.postimg.cc/wjJHVg8F/Star-Gold-2.jpg",Star Gold 2
 http://itspkg.in/ttv/play.php?tv=976
@@ -979,8 +964,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 http://103.120.172.74:4100
 #EXTINF:-1 group-title="TVKU" tvg-logo="https://i.postimg.cc/VvS28M3L/Zee-Hindustan1.jpg",Zee Hindustan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
-#EXTINF:-1 group-title="TVKU" tvg-logo="https://i.postimg.cc/SNRxnvpJ/image-1.jpg",Zee News
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 #EXTINF:-1 group-title="TVKU" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
 http://103.120.172.74:1140
 #EXTINF:-1 group-title="TVKU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX
@@ -1012,10 +995,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures-audi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=352400.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TVKU",ZEE CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=562400.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TVKU",ZEE ACTION
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" group-title="TVKU" ,ZEE ACTION
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" group-title="TVKU" ,ZEE CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" group-title="TVKU" ,ZEE CINEMA HD
@@ -1029,14 +1008,15 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TVKU",SONY CHANNEL Ã°Å¸â€¡ÂªÃ°Å¸â€¡Â¸ Ã°Å¸â€¡ÂºÃ°Å¸â€¡Â¸
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
-#EXTINF:-1 group-title="TVKU",JOO MUSIC
-https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8?nimblesessionid=47621118
-#EXTINF:-1 group-title="TVKU",BBO HD
+#EXTINF:-1 group-title="TVKU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBqBEkfH4J6pG3xv_h1GjdK63H0pcsrC2wA&usqp=CAU",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMjHT7T-SkEfen1xC5ycni3BtF8JfSgIZSg&usqp=CAU"   group-title="TVKU",BBO HD
 https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u8?hdntl=exp=1709654711~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=443195a64322e85187abdc6ff15b0ccd1807b90dfff6a984830dc4014e17782d
-#EXTINF:-1 group-title="TVKU",BBO CLASSIC
+#EXTINF:-1 group-title="TVKU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UJvurKtXJga6wJDg2hFB5tgt6BCMRW7nFw&usqp=CAU",BBO CLASSIC
 https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b2628000.m3u8?hdntl=exp=1709654788~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=8fdeecd6f571bfcb83e5a1f0440779077d7cbf66c5d1d0e94b45120993c90f68&hdnts=st=1709568387~exp=1709571987~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=8be4164d1392ec83657332ceb99ead4b9a50be1a43090abb9f968850f208f14f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1
 
-
+#EXTINF:-1 group-tittle="TVKU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbuxF_QDAWJJXF6ZG_ZCsFCPyjyZBpbdOqA&usqp=CAU",FILM WORLD
+https://mhdtvplay.com/mjunoon/stream.m3u8?chunks=4d0231000c060936f3725b3825992ddf550d6aa567f212cfae028be792cefe66b9bdd941fd1f21c1cd9343057bd2adaa4c4879b42fcae3fc333f5a39d43c6707fee2123c16b645984e82a17b2471543f593813702de7e0c1356f71875f57190fdb6718f46b82c00515b45c1676fb82a9781b87d230119986d48ed45fed45ff84a3714f5abefbd61473c9713a81dc8f05079368476c4ca038192fb302252351744488961263e2e1d201bdc75deed98c1561e9c47c645ce83377d38be0bd7f6c93c5da1e452c393c6f86fb65ff4c6b19a475fc6d901fa6810a0d2b76865f945f9d
 
 
 
