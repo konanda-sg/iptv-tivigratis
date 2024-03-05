@@ -660,7 +660,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="RELIGI",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvxXLQIwFQzMWhj3J8PcDdxmCHSk0-hqclw&usqp=CAU" group-tittle="RELIGI",Aswaja Tv
+https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 =========================================== ENTERTAINMENT ===========================================
 
@@ -5251,7 +5252,7 @@ http://103.206.104.208:8080/channel/choicetv/index.m3u8
 #EXTINF:-1 tvg-id="HindiHitsHD.in" tvg-logo="" group-title="INDIA",HindiHits HD
 http://146.59.253.52:8080/hindihitshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="INDIA",Zing!
-http://183.89.246.119:8881/play/a09a/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="INDIA",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="INDIA",B4U Kadak
@@ -5327,8 +5328,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 http://103.120.172.74:4100
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/VvS28M3L/Zee-Hindustan1.jpg",Zee Hindustan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/SNRxnvpJ/image-1.jpg",Zee News
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
 http://103.120.172.74:1140
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX
@@ -5345,7 +5344,7 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Xvvk1YYh/Action-Hollywood-Movies.png",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="INDIA tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/0769bb08-fe18-4211-918b-5cabad36229b/0.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
@@ -5360,10 +5359,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures-audi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=352400.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",ZEE CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=562400.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",ZEE ACTION
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" group-INDIA="TVKU" ,ZEE ACTION
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" group-title="INDIA" ,ZEE CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" group-title="INDIA" ,ZEE CINEMA HD
