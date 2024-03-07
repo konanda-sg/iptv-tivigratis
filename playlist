@@ -3396,14 +3396,14 @@ https://raw.githubusercontent.com/Arrasyid22/inaldie/main/Live%20EPL.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2ba0cty57qjtca3sc0arc/Ligainggris.jpg?rlkey=07skjn65szjwrky8mi241or6s&dl=0" group-title="LIGA INGGRIS", LIVE 11
 http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/33026
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA INGGRIS", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA INGGRIS", LIVE 2
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga2.m3u8
-
 
 ================================= LIGA SPANYOL =============================================================================================
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga3.m3u8
