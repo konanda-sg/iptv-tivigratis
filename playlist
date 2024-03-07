@@ -386,194 +386,199 @@ http://op-group1-swiftservehd-1.dens.tv/h/h231/index.m3u8?app_type=web&userid=li
 
 ===========================KIDS==============================
 
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://i.ibb.co/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-me" tvg-name="" tvg-logo="https://i.ibb.co/rkFbwRV/abcme.png" group-title="KIDS", ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="KIDS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",KIDS TV (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co/KqKdMRK/aniplus.png" group-title="KIDS", ANIPLUS
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
+
+
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co/KqKdMRK/aniplus.png" group-title="KIDS", ANIPLUS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W5JgdN6/babybus.png" group-title="KIDS", BABYBUS YT
+https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
+
+#EXTINF:-1 channel-id="samsung-INBC280001662" tvg-id="INBC280001662" tvg-logo="https://i.ibb.co/HTHDJ7q/babi1st.png" tvg-chno="1273" group-title="KIDS" , BABY FIRST
+https://i.mjh.nz/SamsungTVPlus/INBC280001662.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS" , Baby Shark TV ðŸ‡°ðŸ‡·
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HKf3JSD/babytv.png" group-title="KIDS", BABY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e666779a51645dbdaf6b2e997f28edfd":"745759b6d78872d6ef4ade6882196302","2290587f13d15b0fa99cc9308ecbde74":"67616e8d2465e20208e178036dab8e74","86aa495e5f94559f85ebbb99ebda57bd":"a6486900971e2ee5f4d52f152f92d5c9"}
+https://tvup-live.akamaized.net/babytv/babytv.mpd
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO ðŸ‡¬ðŸ‡§
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-name="CBeebies" tvg-logo="https://i.ibb.co/zn7bHNn/cbeebies.png" group-title="KIDS", CBEEBIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",BABY TV (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
+#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/fS35p6p/cinemachikids.png" group-title="KIDS", CINEMACHI KIDS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg",MIAO MI (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd  
 
-#EXTINF:-1 tvg-name="MENTARI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="KIDS",MENTARI TV (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="" tvg-logo="https://i.ibb.co/cTmLWMy/davinci.png" group-title="KIDS", DAVINCI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
 
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="" tvg-logo="https://i.ibb.co/cTmLWMy/davinci.png" group-title="KIDS", DAVINCI
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://i.ibb.co/C29CLPp/doratv.png" tvg-chno="3140" group-title="KIDS" , Dora TV ðŸ‡ºðŸ‡¸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-name="" tvg-logo="https://i.ibb.co/932vZfR/dreamworks.png" group-title="KIDS", DREAMWORKS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="KIDS",CARTOON NETWORK (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://hometv.pw/logo/kids/nick_jr.png" group-title="KIDS",NICK JR (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://hometv.pw/logo/kids/nickelodeon.png" group-title="KIDS",NICKELODEON (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="MY KIDZ" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="KIDS",MY KIDZ (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-name="MY KIDZ" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="KIDS",MY KIDZ (D*)
-http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",IndiKids (Indi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://hometv.pw/logo/kids/dreamworks.png" group-title="KIDS",DREAMWORKS (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", Discovery Kid (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://i.ibb.co/xXxyBrv/dunianak.png" group-title="KIDS", DUNIA ANAK
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-#EXTINF:-1 tvg-name="Horee" tvg-logo="https://hometv.pw/logo/kids/horee.png" group-title="KIDS",Horee (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hooree.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/Kxp5QMG/funplanet.png" group-title="KIDS" , FUN PLANET
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_horee_ver1.png" group-title="KIDS", Horee (Indi)
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://i.ibb.co/w7tbfWD/horee.png" group-title="KIDS" , HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://i.ibb.co/w7tbfWD/horee.png" group-title="KIDS" , HOREE!
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="Cinemachi Kids" tvg-logo="https://hometv.pw/logo/kids/cinemachi_kids.png" group-title="KIDS",Cinemachi Kids (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CBEEBIES" tvg-logo="https://hometv.pw/logo/kids/cbeebies.png" group-title="KIDS",CBEEBIES (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="ZOO MOO" tvg-logo="https://hometv.pw/logo/kids/zoomoo.png" group-title="KIDS",ZOO MOO (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="ANIMAX" tvg-logo="https://hometv.pw/logo/kids/animax.png" group-title="KIDS",ANIMAX (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="KIDS",ANIPLUS (Indi)
-https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="KIDS",ANIPLUS (D*)
-http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="KIDS",ANIPLUS
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298504
-https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0f9e93a.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="", Kids Channel - Toonz Kids (D*)
-http://210.210.155.35/x6bnqe/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
-
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="KIDS",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",DAVINCI
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-id="ebskids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-id="pbskids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-id="spacetoonarabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",Kids Staton TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-
-#EXTINF:1  group-title="KIDS" tvg-id="abckids" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ABC_Kids_Logo.svg/1200px-ABC_Kids_Logo.svg.png",ABC KIDS
-https://c.mjh.nz/abc-kids.m3u8
-
-#EXTINF:1  group-title="KIDS" tvg-id="abcme" tvg-logo ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/defmf9a-7ad261d3-5810-4853-a213-413d257c6356.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MFwvZGVmbWY5YS03YWQyNjFkMy01ODEwLTQ4NTMtYTIxMy00MTNkMjU3YzYzNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VEon6PqouajiCEMNNTfQEKwKSVGIersIBywRNqtVrPs",ABC ME
-https://c.mjh.nz/abc-me.m3u8
-
-#EXTINF:1 group-title="KIDS" tvg-id=babybus' tvg-logo="https://picfile-baidu.babybus.com/PageArea/BabyBusFile/20220720/b40431f453854883b90c1df7b31a688f.png",BABYBUS YT
-https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
-
-#EXTINF:1 group-title="KIDS" tvg-logo="https://www.google.com/search?client=lightning&ie=UTF-8&oe=UTF-8&q=baby+first+logo+png",BABY FIRST
-https://i.mjh.nz/SamsungTVPlus/INBC280001662.m3u8
-
-#EXTINF:1 group-title="KIDS" tvg-logo="https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo",BABY SHARK TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
-
-#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png",CARTOONITO
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="KIDS",Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png",DUNIA ANAK
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
-
-#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/2048px-Fun_Planet.png",FUN PLANET
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
-#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2UaM9n31vmUhHAxV1Xun4tzo_tRw8rATBiQ&usqp=CAU",KIDS FLIK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qNpjCYr/kidsflix.png" group-title="KIDS", KIDSFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDi8VjpBBfOpoQYvHPUorJutZ-jpsLy5UMYZiyHhOR1w&s",LEGO KIDS TV
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-name="" tvg-logo="https://i.ibb.co/r7D6K2k/kidstv.png" group-title="KIDS", KIDS TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="KIDS" , LEGO Kids TV ðŸ‡ºðŸ‡¸
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
 
-#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1izU6Tw11ZWMvvJDMzI55eLIZ4WKWaCjiA&usqp=CAU",LEO WILDLIFE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3SDbLWM/leo.png" group-title="KIDS", LEO WILDLIFE GUARD YT
 https://ythls-v2.onrender.com/channel/UCiuu1WKCPw8VPasHoRE3NZA.m3u8
 
-#EXTINF:1 group-title="KIDS" tvg-logo="https://www.freepnglogos.com/uploads/little-pony-png/image-little-pony-mobile-game-logo-little-29.png",MY LITTLE PONY
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-name="" tvg-logo="https://i.ibb.co/r3ss43b/mykidz.png" group-title="KIDS", MYKIDZ TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/G2yTmyV/mylittlepony.png" group-title="KIDS", MY LITTLE PONY YT
 https://ythls-v2.onrender.com/channel/UCDRCl6JTjDKjyquagRWrkgA.m3u8
 
-#EXTINF:1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tayo_The_Little_Bus_English_logo.png",TAYO YT
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b383c9207bf4e178200126b3e67df30:e42f4fc0a0250da87a36c0372d908904
+https://mad01.cdn.avatel.tv/live/eds/nick/MPEG-DASH_Scrambled_High/nick.mpd
+
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
+
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:261_HD.smil/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qrhGpfd/pbskids.png" group-title="KIDS", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kgZgnxK/tayo.png" group-title="KIDS", TAYO YT
 https://ythls-v2.onrender.com/channel/UCUaZwCnn6Z-16BmkKngSs0g.m3u8
 
-#EXTINF:1 group-title="KIDS" tvg-logo="https://ph-files.imgix.net/92415761-74ab-471a-aa12-2132ebe5f077.png?auto=format",TOON KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ydz4SLT/toonzkids.png" group-title="KIDS", TOONZKIDS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 
-#EXTINF:1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Tx89tATA4lsbEZewLyAbv9GkuuG5us_vZw&usqp=CAU",TRANSFORMERS ANIMATED
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://i.ibb.co/3BDrBvR/transformers.png" tvg-chno="3200" group-title="KIDS" , Transformers TV ðŸ‡ºðŸ‡¸
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://i.ibb.co/Kh5Mwfd/zoomoo.png" group-title="KIDS", ZOO MOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:1 group-title="KIDS" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png",SPONGEBOB SQUARPANTS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-a3ec4423-847a-43d4-9526-9de121b7ef66&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=stitcher-ipv4.pluto.tv&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=328affc2-52c0-4970-8b1a-210f6ae048e5&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&advertisingId={PSID}&profileLimit=&profileFloor=
@@ -1757,7 +1762,7 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/887f87f5db4607fe06a5c084439cbf8c.jpg" group-title="MUSIC",Persiana Korea
 http://51.210.199.14/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png",Retro tv Ã°Å¸â€¡Â¨Ã°Å¸â€¡Â¿
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png",Retro tv ðŸ‡¨ðŸ‡¿
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
@@ -2869,36 +2874,36 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 group-title="JAPAN" tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="JAPAN" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", Ã£Æ’â€ºÃ£Æ’Â¼Ã£Æ’Â Ã£Æ’â€°Ã£Æ’Â©Ã£Æ’Å¾Ã£Æ’ÂÃ£Æ’Â£Ã£Æ’Â³Ã£Æ’ÂÃ£Æ’Â« / Home Drama Channel 
+#EXTINF:-1 group-title="JAPAN" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ãƒ›ãƒ¼ãƒ ãƒ‰ãƒ©ãƒžãƒãƒ£ãƒ³ãƒãƒ« / Home Drama Channel 
 #https://code.vthanhtivi.pw/getlink/jptvvn/59/playlist.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Ã¦ÂÂ±Ã¦ËœÂ Ã£Æ’ÂÃ£Æ’Â£Ã£Æ’Â³Ã£Æ’ÂÃ£Æ’Â« / Toei Channel
+#EXTINF:-1 group-title="JAPAN" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", æ±æ˜ ãƒãƒ£ãƒ³ãƒãƒ« / Toei Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 group-title="JAPAN" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Ã¨Â¡â€ºÃ¦ËœÅ¸Ã¥Å â€¡Ã¥Â Â´ / Eisei Gekijo 
+#EXTINF:-1 group-title="JAPAN" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", è¡›æ˜ŸåŠ‡å ´ / Eisei Gekijo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", Ã¦ËœÂ Ã§â€Â»Ã£Æ’Â»Ã£Æ’ÂÃ£Æ’Â£Ã£Æ’Â³Ã£Æ’ÂÃ£Æ’Â«NECO / Neco 
+#EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", æ˜ ç”»ãƒ»ãƒãƒ£ãƒ³ãƒãƒ«NECO / Neco 
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", Ã£â€šÂ¶Ã£Æ’Â»Ã£â€šÂ·Ã£Æ’ÂÃ£Æ’Å¾ / The Cinema 
+#EXTINF:-1 group-title="JAPAN" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ã‚¶ãƒ»ã‚·ãƒãƒž / The Cinema 
 #https://code.vthanhtivi.pw/getlink/jptvvn/141/playlist.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Ã£Æ’Â Ã£Æ’Â¼Ã£Æ’â€œÃ£Æ’Â¼Ã£Æ’â€”Ã£Æ’Â©Ã£â€šÂ¹ / Movie Plus
+#EXTINF:-1 group-title="JAPAN" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ãƒ ãƒ¼ãƒ“ãƒ¼ãƒ—ãƒ©ã‚¹ / Movie Plus
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="JAPAN" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Ã£â€šÂ¹Ã£â€šÂ«Ã£â€šÂ¤Ã£Æ’Â»A / Sky A  
+#EXTINF:-1 group-title="JAPAN" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", ã‚¹ã‚«ã‚¤ãƒ»A / Sky A  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 #EXTINF:-1 group-title="JAPAN" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Ã¦â€”Â¥Ã£Æ’â€ Ã£Æ’Â¬Ã£â€šÂ¸Ã£Æ’Â¼Ã£â€šÂ¿Ã£â€šÂ¹ / Nittele G+
+#EXTINF:-1 group-title="JAPAN" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", æ—¥ãƒ†ãƒ¬ã‚¸ãƒ¼ã‚¿ã‚¹ / Nittele G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="JAPAN" tvg-id="familygeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Ã£Æ’â€¢Ã£â€šÂ¡Ã£Æ’Å¸Ã£Æ’ÂªÃ£Æ’Â¼Ã¥Å â€¡Ã¥Â Â´ / Family Gekijyo
+#EXTINF:-1 group-title="JAPAN" tvg-id="familygeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ãƒ•ã‚¡ãƒŸãƒªãƒ¼åŠ‡å ´ / Family Gekijyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 #EXTINF:-1 group-title="JAPAN" tvg-id="fox" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg", FOX  
 #https://code.vthanhtivi.pw/getlink/jptvvn/63/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
 http://asia.vthanhtivi.pw/MTV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Ã£â€šÂ­Ã£Æ’Æ’Ã£â€šÂºÃ£â€šÂ¹Ã£Æ’â€ Ã£Æ’Â¼Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³ / Kids Staton TV
+#EXTINF:-1 group-title="JAPAN" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", ã‚­ãƒƒã‚ºã‚¹ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ / Kids Staton TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 group-title="JAPAN" tvg-id="cartoonnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="JAPAN" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Ã£Æ’â€¡Ã£â€šÂ£Ã£â€šÂºÃ£Æ’â€¹Ã£Æ’Â¼Ã£â€šÂ¸Ã£Æ’Â¥Ã£Æ’â€¹Ã£â€šÂ¢ / Disney Junior
+#EXTINF:-1 group-title="JAPAN" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ãƒ‡ã‚£ã‚ºãƒ‹ãƒ¼ã‚¸ãƒ¥ãƒ‹ã‚¢ / Disney Junior
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="JAPAN" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
@@ -3313,7 +3318,7 @@ https://live.mocdn.tv/out/v1/94dfdc818b124449bfcce06c2e6dde8d/manifest_L1.mpd
 ==================================================================================================================================================================
 
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="Ã¢Å¡Â¾Ã¯Â¸ÂVOLYÃ¢Å¡Â¾Ã¯Â¸Â",voly korea
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="âš¾ï¸VOLYâš¾ï¸",voly korea
 https://bintangstreaming.my.id/sbssport/S02.m3u8
 
 
@@ -3337,7 +3342,7 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/cyta3.m3u8
 #EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="LIGA CHAMPIONS UEFA", LIVE 6
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/cyta4.m3u8
 
-#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="LIGA CHAMPIONS UEFAâ€ ", LIVE 7
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="LIGA CHAMPIONS UEFA†", LIVE 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/tnt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="LIGA CHAMPIONS UEFA", LIVE 8
@@ -3385,7 +3390,7 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/PLlive8.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2ba0cty57qjtca3sc0arc/Ligainggris.jpg?rlkey=07skjn65szjwrky8mi241or6s&dl=0" group-title="LIGA INGGRIS", LIVE 9
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/PLlive9.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2ba0cty57qjtca3sc0arc/Ligainggris.jpg?rlkey=07skjn65szjwrky8mi241or6s&dl=0" group-title="LIGA INGGRISÂ§", LIVE 10
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2ba0cty57qjtca3sc0arc/Ligainggris.jpg?rlkey=07skjn65szjwrky8mi241or6s&dl=0" group-title="LIGA INGGRIS§", LIVE 10
 https://raw.githubusercontent.com/Arrasyid22/inaldie/main/Live%20EPL.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2ba0cty57qjtca3sc0arc/Ligainggris.jpg?rlkey=07skjn65szjwrky8mi241or6s&dl=0" group-title="LIGA INGGRIS", LIVE 11
@@ -3406,7 +3411,7 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga3.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 4
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353643_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOLÂ¦", LIVE 5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL¦", LIVE 5
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=264973_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 6
@@ -3477,13 +3482,13 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1469411&exte
 
 
 ===================================================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="Ã°Å¸Ââ‚¬BASKETÃ°Å¸Ââ‚¬",NBA TV HD 
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="ðŸ€BASKETðŸ€",NBA TV HD 
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/13222
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Ã°Å¸Ââ‚¬BASKETÃ°Å¸Ââ‚¬",NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="ðŸ€BASKETðŸ€",NBA TV
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298558
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="Ã°Å¸Ââ‚¬BASKETÃ°Å¸Ââ‚¬",Sky Sport NBA
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="ðŸ€BASKETðŸ€",Sky Sport NBA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1047
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="Ã°Å¸Ââ‚¬BASKETÃ°Å¸Ââ‚¬",SPORT TV NBA
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="ðŸ€BASKETðŸ€",SPORT TV NBA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/2051
 
 =====
@@ -5766,7 +5771,7 @@ http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/193009
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/1351
 #EXTINF:0 group-title="Channels INDIA",Zee Business
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/16984
-#EXTINF:0 group-title="Channels INDIA",Zee CafÃƒÆ’Ã‚Â©
+#EXTINF:0 group-title="Channels INDIA",Zee CafÃƒÂ©
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/49561
 #EXTINF:0 group-title="Channels INDIA",Zee Cinema Asia
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/1350
@@ -6123,7 +6128,7 @@ http://iptvtree.net:8080/F26646/f950f250/193009
 http://iptvtree.net:8080/F26646/f950f250/1351
 #EXTINF:-1 tvg-id="" tvg-name="Zee Business" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9bcddf38e1547fadf65c31172b86f21b.png" group-title="INDIA CHANEL",Zee Business
 http://iptvtree.net:8080/F26646/f950f250/16984
-#EXTINF:-1 tvg-id="" tvg-name="Zee CafÃƒÆ’Ã‚Â©" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7ea3a8510b9c3e2d63d314aae01977.png" group-title="INDIA CHANEL",Zee CafÃƒÆ’Ã‚Â©
+#EXTINF:-1 tvg-id="" tvg-name="Zee CafÃƒÂ©" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7ea3a8510b9c3e2d63d314aae01977.png" group-title="INDIA CHANEL",Zee CafÃƒÂ©
 http://iptvtree.net:8080/F26646/f950f250/49561
 #EXTINF:-1 tvg-id="" tvg-name="Zee Music Co" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/1a04bfd70f2d8d09bef61d76bc30f639.png" group-title="INDIA CHANEL",Zee Music Co
 http://iptvtree.net:8080/F26646/f950f250/267131
@@ -6309,7 +6314,7 @@ https://77e440c4d43b41baa60615a84f1461ae.mediatailor.us-east-1.amazonaws.com/v1/
 https://meateater-meateater-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-meateater-meateater-rakuten/CDN/master.m3u8?ads_amagi_channel=834&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=4570&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=841569bd-f4f7-4db7-b306-d8bd7a1a4779&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Tastemade
 https://tastemade-tdint-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-rakuten-uk/CDN/master.m3u8?ads_amagi_channel=747&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=3482&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=3808e47d-22cb-4942-8b11-fc0fa3a377f0&ads_user_type=visitor
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Bon AppÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©tit
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Bon AppÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©tit
 https://bonappetit-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-condenast-rakuten/CDN/master.m3u8?ads_amagi_channel=744&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=3462&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=05cdf209-5fef-4e73-81f4-9875915091cb&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Gusto TV
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4087&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=99480703-f6aa-4b85-91cb-0b28be6fffff&ads.user_type=visitor&ads.wurl_channel=858
@@ -6549,7 +6554,7 @@ https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/
 https://a6fa08d757884cf9994344c24b948fc6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=de&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=2905&ads.rtv_content_language=deu&ads.rtvid=271862&ads.streaming_id=9b8bfee5-7be3-4f33-84fe-afa0d112af23&ads.user_type=visitor&ads.wurl_channel=837
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Actionfilme - Rakuten TV
 https://d35b7cc78d1349babeb4c5f015699464.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenActionMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=de&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=2508&ads.rtv_content_language=deu&ads.rtvid=271862&ads.streaming_id=f8d61cb3-616c-4760-a95a-2c67d672f0e4&ads.user_type=visitor&ads.wurl_channel=431
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", KomÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¶dien - Rakuten TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", KomÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¶dien - Rakuten TV
 https://ef43576fea7e4475bafdedc078f5738b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=de&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=2507&ads.rtv_content_language=deu&ads.rtvid=271862&ads.streaming_id=b91b713c-1e43-480f-9737-3939ec76752d&ads.user_type=visitor&ads.wurl_channel=432
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Drama Filme - Rakuten TV
 https://67d66914daeb4e91ae8564deea8ce2af.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=de&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=2510&ads.rtv_content_language=deu&ads.rtvid=271862&ads.streaming_id=69127fdd-a091-403a-9978-b78a81a7863d&ads.user_type=visitor&ads.wurl_channel=433
@@ -6788,277 +6793,277 @@ https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8#sapp_flv2mp
 ===========================================SAMSUNG TV===========================================
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
-#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="SAMSUNG TV" , Ã¬â€”Â°Ã­â€¢Â©Ã«â€°Â´Ã¬Å Â¤TV
+#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="SAMSUNG TV" , ì—°í•©ë‰´ìŠ¤TV
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" tvg-chno="502" group-title="SAMSUNG TV" , YTN
 https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="SAMSUNG TV" , MBC Ã«Â¬Â´Ã­â€¢Å“Ã«Ââ€žÃ¬Â â€ž
+#EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="SAMSUNG TV" , MBC ë¬´í•œë„ì „
 https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20230823T005038SQUARE.png_20230823005039.png" tvg-chno="507" group-title="SAMSUNG TV" , tvN Ã¬â€šÂ¬Ã«Å¾â€˜Ã¬ÂËœ Ã«Â¶Ë†Ã¬â€¹Å“Ã¬Â°Â©
+#EXTINF:-1 channel-id="samsung-KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20230823T005038SQUARE.png_20230823005039.png" tvg-chno="507" group-title="SAMSUNG TV" , tvN ì‚¬ëž‘ì˜ ë¶ˆì‹œì°©
 https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20230823T005021SQUARE.png_20230823005022.png" tvg-chno="508" group-title="SAMSUNG TV" , MBC Ã«â€šËœÃ­ËœÂ¼Ã¬Å¾ÂÃ¬â€šÂ°Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20230823T005021SQUARE.png_20230823005022.png" tvg-chno="508" group-title="SAMSUNG TV" , MBC ë‚˜í˜¼ìžì‚°ë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB420000769" tvg-id="KRBB420000769" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230913T010343SQUARE.png_20230913010344.png" tvg-chno="510" group-title="SAMSUNG TV" , SBS TV Ã«Ââ„¢Ã«Â¬Â¼Ã«â€ ÂÃ¬Å¾Â¥
+#EXTINF:-1 channel-id="samsung-KRBB420000769" tvg-id="KRBB420000769" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230913T010343SQUARE.png_20230913010344.png" tvg-chno="510" group-title="SAMSUNG TV" , SBS TV ë™ë¬¼ë†ìž¥
 https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20231025T004708SQUARE.png_20231025004709.png" tvg-chno="513" group-title="SAMSUNG TV" , tvN Ã«Â¯Â¸Ã¬Å Â¤Ã­â€žÂ° Ã¬â€¦ËœÃ¬Æ’Â¤Ã¬ÂÂ¸
+#EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20231025T004708SQUARE.png_20231025004709.png" tvg-chno="513" group-title="SAMSUNG TV" , tvN ë¯¸ìŠ¤í„° ì…˜ìƒ¤ì¸
 https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD2700008TZ" tvg-id="KRBD2700008TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20231213T033742SQUARE.png_20231213033743.png" tvg-chno="514" group-title="SAMSUNG TV" , PLAYY Ã­ÂÂ¬Ã«Â¦Â¬Ã¬Å Â¤Ã«Â§Ë†Ã¬Å Â¤ Ã­Å Â¹Ã¬Â§â€˜
+#EXTINF:-1 channel-id="samsung-KRBD2700008TZ" tvg-id="KRBD2700008TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20231213T033742SQUARE.png_20231213033743.png" tvg-chno="514" group-title="SAMSUNG TV" , PLAYY í¬ë¦¬ìŠ¤ë§ˆìŠ¤ íŠ¹ì§‘
 https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20231213T033744SQUARE.png_20231213033745.png" tvg-chno="517" group-title="SAMSUNG TV" , tvN Ã«Ââ€ Ã¬Â§â‚¬Ã«â€¹Ë†Ã¬â€“Â´Ã¬Å Â¤: ÃªÂ·Â¸Ã«Å¾Å“Ã«â€œÅ“ Ã­Å’Å’Ã¬ÂÂ´Ã«â€žÂ
+#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20231213T033744SQUARE.png_20231213033745.png" tvg-chno="517" group-title="SAMSUNG TV" , tvN ë” ì§€ë‹ˆì–´ìŠ¤: ê·¸ëžœë“œ íŒŒì´ë„
 https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBD44000025L" tvg-id="KRBD44000025L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20231206T031622SQUARE.png_20231206031623.png" tvg-chno="519" group-title="SAMSUNG TV" , Fireplace 4K
 https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20231114T070144SQUARE.png_20231114070145.png" tvg-chno="520" group-title="SAMSUNG TV" , MBC Ã«â€šËœÃ«Å â€ ÃªÂ°â‚¬Ã¬Ë†ËœÃ«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20231114T070144SQUARE.png_20231114070145.png" tvg-chno="520" group-title="SAMSUNG TV" , MBC ë‚˜ëŠ” ê°€ìˆ˜ë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20231114T070147SQUARE.png_20231114070148.png" tvg-chno="521" group-title="SAMSUNG TV" , MBC Ã¬ËœÂ·Ã¬â€ Å’Ã«Â§Â¤ Ã«Â¶â€°Ã¬Ââ‚¬Ã«ÂÂÃ«Ââ„¢
+#EXTINF:-1 channel-id="samsung-KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20231114T070147SQUARE.png_20231114070148.png" tvg-chno="521" group-title="SAMSUNG TV" , MBC ì˜·ì†Œë§¤ ë¶‰ì€ëë™
 https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20231114T070142SQUARE.png_20231114070143.png" tvg-chno="522" group-title="SAMSUNG TV" , KBS 1Ã«Â°â€¢2Ã¬ÂÂ¼ Ã¬â€¹Å“Ã¬Â¦Å’1
+#EXTINF:-1 channel-id="samsung-KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20231114T070142SQUARE.png_20231114070143.png" tvg-chno="522" group-title="SAMSUNG TV" , KBS 1ë°•2ì¼ ì‹œì¦Œ1
 https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20231011T013507SQUARE.png_20231011013508.png" tvg-chno="524" group-title="SAMSUNG TV" , JTBC Ã«Â¹â€žÃªÂ¸Â´Ã¬â€“Â´ÃªÂ²Å’Ã¬ÂÂ¸
+#EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20231011T013507SQUARE.png_20231011013508.png" tvg-chno="524" group-title="SAMSUNG TV" , JTBC ë¹„ê¸´ì–´ê²Œì¸
 https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC46000014A" tvg-id="KRBC46000014A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20231011T013510SQUARE.png_20231011013510.png" tvg-chno="525" group-title="SAMSUNG TV" , JTBC Ã­ÂÂ¬Ã«ÂÂ¼Ã¬Å¾â€žÃ¬â€Â¬
+#EXTINF:-1 channel-id="samsung-KRBC46000014A" tvg-id="KRBC46000014A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20231011T013510SQUARE.png_20231011013510.png" tvg-chno="525" group-title="SAMSUNG TV" , JTBC í¬ë¼ìž„ì”¬
 https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBD4300001RQ" tvg-id="KRBD4300001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300001RQ_20231206T031625SQUARE.png_20231206031626.png" tvg-chno="526" group-title="SAMSUNG TV" , essential; by Bugs
 https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="SAMSUNG TV" , Mnet Ã¬Å Â¤Ã­Å Â¸Ã«Â¦Â¿ Ã¬Å¡Â°Ã«Â¨Â¼ Ã­Å’Å’Ã¬ÂÂ´Ã­â€žÂ° 2 HOT CLIP
+#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="SAMSUNG TV" , Mnet ìŠ¤íŠ¸ë¦¿ ìš°ë¨¼ íŒŒì´í„° 2 HOT CLIP
 https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png" tvg-chno="535" group-title="SAMSUNG TV" , tvN Ã¬Å“Â  Ã­â‚¬Â´Ã¬Â¦Ë† Ã¬ËœÂ¨ Ã«Ââ€ Ã«Â¸â€Ã«Å¸Â­ HOT CLIP
+#EXTINF:-1 channel-id="samsung-KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png" tvg-chno="535" group-title="SAMSUNG TV" , tvN ìœ  í€´ì¦ˆ ì˜¨ ë” ë¸”ëŸ­ HOT CLIP
 https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC40000010R" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-title="SAMSUNG TV" , Animax Ã«Â°ËœÃ¬Â§â‚¬Ã¬ÂËœ Ã«Â¹â€žÃ«Â°â‚¬Ã¬ÂÂ¼ÃªÂ¸Â°
+#EXTINF:-1 channel-id="samsung-KRBC40000010R" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-title="SAMSUNG TV" , Animax ë°˜ì§€ì˜ ë¹„ë°€ì¼ê¸°
 https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB5000364M" tvg-id="KRBB5000364M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20230926T013853SQUARE.png_20230926013854.png" tvg-chno="537" group-title="SAMSUNG TV" , Ã¬Â´Ë†Ã«Â¡ÂÃ«Â±â‚¬Ã«Â¯Â¸Ã«â€â€Ã¬â€“Â´ K-STAR ÃªÂ³Â¨Ã­â€â€ž
+#EXTINF:-1 channel-id="samsung-KRBB5000364M" tvg-id="KRBB5000364M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20230926T013853SQUARE.png_20230926013854.png" tvg-chno="537" group-title="SAMSUNG TV" , ì´ˆë¡ë±€ë¯¸ë””ì–´ K-STAR ê³¨í”„
 https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20230913T010335SQUARE.png_20230913010336.png" tvg-chno="539" group-title="SAMSUNG TV" , PGA Tour
 https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20231114T070115SQUARE.png_20231114070116.png" tvg-chno="540" group-title="SAMSUNG TV" , SBS Ã­Å½Â¸Ã¬ÂËœÃ¬Â Â Ã¬Æ’â€ºÃ«Â³â€žÃ¬ÂÂ´
+#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20231114T070115SQUARE.png_20231114070116.png" tvg-chno="540" group-title="SAMSUNG TV" , SBS íŽ¸ì˜ì  ìƒ›ë³„ì´
 https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230913T010346SQUARE.png_20230913010347.png" tvg-chno="541" group-title="SAMSUNG TV" , SBS ÃªÂ¶ÂÃªÂ¸Ë†Ã­â€¢Å“ Ã¬ÂÂ´Ã¬â€¢Â¼ÃªÂ¸Â° Y
+#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230913T010346SQUARE.png_20230913010347.png" tvg-chno="541" group-title="SAMSUNG TV" , SBS ê¶ê¸ˆí•œ ì´ì•¼ê¸° Y
 https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC50000218R" tvg-id="KRBC50000218R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230913T010312SQUARE.png_20230913010313.png" tvg-chno="542" group-title="SAMSUNG TV" , JTBC Ã­â€ Â¡Ã­Å’Å’Ã¬â€ºÂ25Ã¬â€¹Å“
+#EXTINF:-1 channel-id="samsung-KRBC50000218R" tvg-id="KRBC50000218R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230913T010312SQUARE.png_20230913010313.png" tvg-chno="542" group-title="SAMSUNG TV" , JTBC í†¡íŒŒì›25ì‹œ
 https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20231206T031611SQUARE.png_20231206031612.png" tvg-chno="543" group-title="SAMSUNG TV" , KBS Ã¬Â â€¢Ã«Ââ€žÃ¬Â â€ž
+#EXTINF:-1 channel-id="samsung-KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20231206T031611SQUARE.png_20231206031612.png" tvg-chno="543" group-title="SAMSUNG TV" , KBS ì •ë„ì „
 https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4600004BQ" tvg-id="KRBC4600004BQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20231025T004645SQUARE.png_20231025004646.png" tvg-chno="544" group-title="SAMSUNG TV" , JTBC ÃªÂ´Â´Ã«Â¬Â¼
+#EXTINF:-1 channel-id="samsung-KRBC4600004BQ" tvg-id="KRBC4600004BQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20231025T004645SQUARE.png_20231025004646.png" tvg-chno="544" group-title="SAMSUNG TV" , JTBC ê´´ë¬¼
 https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC50000228B" tvg-id="KRBC50000228B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230913T010314SQUARE.png_20230913010315.png" tvg-chno="545" group-title="SAMSUNG TV" , JTBC Ã­â€™Ë†Ã¬Å“â€žÃ¬Å¾Ë†Ã«Å â€ ÃªÂ·Â¸Ã«â€¦â‚¬
+#EXTINF:-1 channel-id="samsung-KRBC50000228B" tvg-id="KRBC50000228B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230913T010314SQUARE.png_20230913010315.png" tvg-chno="545" group-title="SAMSUNG TV" , JTBC í’ˆìœ„ìžˆëŠ” ê·¸ë…€
 https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230913T010349SQUARE.png_20230913010350.png" tvg-chno="546" group-title="SAMSUNG TV" , SBS Ã«â€šËœÃ«Å â€ Ã¬â€ â€Ã«Â¡Å“
+#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230913T010349SQUARE.png_20230913010350.png" tvg-chno="546" group-title="SAMSUNG TV" , SBS ë‚˜ëŠ” ì†”ë¡œ
 https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20230913T010404SQUARE.png_20230913010405.png" tvg-chno="547" group-title="SAMSUNG TV" , TVÃ¬Â¡Â°Ã¬â€žÂ  Ã«Â¯Â¸Ã¬Å Â¤Ã­â€žÂ°Ã­Å Â¸Ã«Â¡Â¯ Ã¬ËœÂÃ¬â€ºâ€¦Ã¬ÂËœ Ã­Æ’â€žÃ¬Æ’Â
+#EXTINF:-1 channel-id="samsung-KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20230913T010404SQUARE.png_20230913010405.png" tvg-chno="547" group-title="SAMSUNG TV" , TVì¡°ì„  ë¯¸ìŠ¤í„°íŠ¸ë¡¯ ì˜ì›…ì˜ íƒ„ìƒ
 https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20231206T031613SQUARE.png_20231206031615.png" tvg-chno="552" group-title="SAMSUNG TV" , TVÃ¬Â¡Â°Ã¬â€žÂ  Ã¬Å¡Â°Ã«Â¦Â¬ Ã¬ÂÂ´Ã­ËœÂ¼Ã­â€“Ë†Ã¬â€“Â´Ã¬Å¡â€
+#EXTINF:-1 channel-id="samsung-KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20231206T031613SQUARE.png_20231206031615.png" tvg-chno="552" group-title="SAMSUNG TV" , TVì¡°ì„  ìš°ë¦¬ ì´í˜¼í–ˆì–´ìš”
 https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20230913T010401SQUARE.png_20230913010402.png" tvg-chno="553" group-title="SAMSUNG TV" , TVÃ¬Â¡Â°Ã¬â€žÂ  ÃªÂ³Â¨Ã­â€â€žÃ¬â„¢â€¢
+#EXTINF:-1 channel-id="samsung-KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20230913T010401SQUARE.png_20230913010402.png" tvg-chno="553" group-title="SAMSUNG TV" , TVì¡°ì„  ê³¨í”„ì™•
 https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD2700007S0" tvg-id="KRBD2700007S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20230913T010340SQUARE.png_20230913010341.png" tvg-chno="555" group-title="SAMSUNG TV" , PLAYY Ã¬ËœÂÃ­â„¢â€
+#EXTINF:-1 channel-id="samsung-KRBD2700007S0" tvg-id="KRBD2700007S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20230913T010340SQUARE.png_20230913010341.png" tvg-chno="555" group-title="SAMSUNG TV" , PLAYY ì˜í™”
 https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230913T010352SQUARE.png_20230913010353.png" tvg-chno="556" group-title="SAMSUNG TV" , SBS Ã¬Å Â¤Ã­â€ Â Ã«Â¸Å’Ã«Â¦Â¬ÃªÂ·Â¸
+#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230913T010352SQUARE.png_20230913010353.png" tvg-chno="556" group-title="SAMSUNG TV" , SBS ìŠ¤í† ë¸Œë¦¬ê·¸
 https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20231114T070139SQUARE.png_20231114070140.png" tvg-chno="557" group-title="SAMSUNG TV" , SBS Ã¬Ë†Å“Ã­â€™ÂÃ¬â€šÂ°Ã«Â¶â‚¬Ã¬ÂÂ¸ÃªÂ³Â¼
+#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20231114T070139SQUARE.png_20231114070140.png" tvg-chno="557" group-title="SAMSUNG TV" , SBS ìˆœí’ì‚°ë¶€ì¸ê³¼
 https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20230913T010330SQUARE.png_20230913010331.png" tvg-chno="558" group-title="SAMSUNG TV" , MBC Ã¬Â§â‚¬Ã«Â¶â€¢Ã«Å¡Â«ÃªÂ³Â  Ã­â€¢ËœÃ¬ÂÂ´Ã­â€šÂ¥
+#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20230913T010330SQUARE.png_20230913010331.png" tvg-chno="558" group-title="SAMSUNG TV" , MBC ì§€ë¶•ëš«ê³  í•˜ì´í‚¥
 https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230913T010324SQUARE.png_20230913010325.png" tvg-chno="559" group-title="SAMSUNG TV" , MBC ÃªÂ±Â°Ã¬Â¹Â¨Ã¬â€”â€ Ã¬ÂÂ´ Ã­â€¢ËœÃ¬ÂÂ´Ã­â€šÂ¥
+#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230913T010324SQUARE.png_20230913010325.png" tvg-chno="559" group-title="SAMSUNG TV" , MBC ê±°ì¹¨ì—†ì´ í•˜ì´í‚¥
 https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" tvg-chno="561" group-title="SAMSUNG TV" , MBC Ã¬â€¹Â¬Ã¬â€¢Â¼ÃªÂ´Â´Ã«â€¹Â´Ã­Å¡Å’
+#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" tvg-chno="561" group-title="SAMSUNG TV" , MBC ì‹¬ì•¼ê´´ë‹´íšŒ
 https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC5000016BM" tvg-id="KRBC5000016BM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230913T010317SQUARE.png_20230913010318.png" tvg-chno="563" group-title="SAMSUNG TV" , JTBC Ã­Å¡Â¨Ã«Â¦Â¬Ã«â€žÂ¤ Ã«Â¯Â¼Ã«Â°â€¢ Ã¬â€¹Å“Ã¬Â¦Å’1
+#EXTINF:-1 channel-id="samsung-KRBC5000016BM" tvg-id="KRBC5000016BM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230913T010317SQUARE.png_20230913010318.png" tvg-chno="563" group-title="SAMSUNG TV" , JTBC íš¨ë¦¬ë„¤ ë¯¼ë°• ì‹œì¦Œ1
 https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20230913T010358SQUARE.png_20230913010359.png" tvg-chno="565" group-title="SAMSUNG TV" , SBS Ã¬Â â€¢ÃªÂ¸â‚¬Ã¬ÂËœ Ã«Â²â€¢Ã¬Â¹â„¢
+#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20230913T010358SQUARE.png_20230913010359.png" tvg-chno="565" group-title="SAMSUNG TV" , SBS ì •ê¸€ì˜ ë²•ì¹™
 https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="SAMSUNG TV" , Ã«Â§â€ºÃ¬Å¾Ë†Ã«Å â€ Ã«â€¦â‚¬Ã¬â€žÂÃ«â€œÂ¤
+#EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="SAMSUNG TV" , ë§›ìžˆëŠ” ë…€ì„ë“¤
 https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC5000015F5" tvg-id="KRBC5000015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20231025T004642SQUARE.png_20231025004643.png" tvg-chno="567" group-title="SAMSUNG TV" , JTBC Ã­Å¾ËœÃ¬Å½Ë†Ã¬â€”Â¬Ã¬Å¾Â Ã«Ââ€žÃ«Â´â€°Ã¬Ë†Å“
+#EXTINF:-1 channel-id="samsung-KRBC5000015F5" tvg-id="KRBC5000015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20231025T004642SQUARE.png_20231025004643.png" tvg-chno="567" group-title="SAMSUNG TV" , JTBC íž˜ìŽˆì—¬ìž ë„ë´‰ìˆœ
 https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="SAMSUNG TV" , Ã¬Â±â€žÃ«â€žÂA Ã¬ÂÂ´Ã¬Â Å“ Ã«Â§Å’Ã«â€šËœÃ«Å¸Â¬ ÃªÂ°â€˜Ã«â€¹Ë†Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="SAMSUNG TV" , ì±„ë„A ì´ì œ ë§Œë‚˜ëŸ¬ ê°‘ë‹ˆë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="SAMSUNG TV" , Ã¬Â â€žÃ¬Å¡Â°Ã¬Â¹Ëœ
+#EXTINF:-1 channel-id="samsung-KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="SAMSUNG TV" , ì „ìš°ì¹˜
 https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20231115T010827SQUARE.png_20231115010828.png" tvg-chno="575" group-title="SAMSUNG TV" , Ã¬â€šÂ¬Ã­â€Â¼Ã¬â€”â€Ã¬Å Â¤Ã¬Å Â¤Ã­Å Å“Ã«â€â€Ã¬ËœÂ¤
+#EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20231115T010827SQUARE.png_20231115010828.png" tvg-chno="575" group-title="SAMSUNG TV" , ì‚¬í”¼ì—”ìŠ¤ìŠ¤íŠœë””ì˜¤
 https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC32000200B" tvg-id="KRBC32000200B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20231114T070154SQUARE.png_20231114070155.png" tvg-chno="577" group-title="SAMSUNG TV" , Ã¬â€”Â­Ã¬â€šÂ¬ Ã¬ÂÂ½Ã¬â€“Â´Ã«â€œÅ“Ã«Â¦Â½Ã«â€¹Ë†Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC32000200B" tvg-id="KRBC32000200B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20231114T070154SQUARE.png_20231114070155.png" tvg-chno="577" group-title="SAMSUNG TV" , ì—­ì‚¬ ì½ì–´ë“œë¦½ë‹ˆë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20231115T010829SQUARE.png_20231115010830.png" tvg-chno="579" group-title="SAMSUNG TV" , Ã¬â€¹Â¬Ã«Â¦Â¬ Ã¬ÂÂ½Ã¬â€“Â´Ã«â€œÅ“Ã«Â¦Â½Ã«â€¹Ë†Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20231115T010829SQUARE.png_20231115010830.png" tvg-chno="579" group-title="SAMSUNG TV" , ì‹¬ë¦¬ ì½ì–´ë“œë¦½ë‹ˆë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC320002200" tvg-id="KRBC320002200" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20231114T070152SQUARE.png_20231114070153.png" tvg-chno="580" group-title="SAMSUNG TV" , tvN Ã­â„¢ËœÃ­ËœÂ¼
+#EXTINF:-1 channel-id="samsung-KRBC320002200" tvg-id="KRBC320002200" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20231114T070152SQUARE.png_20231114070153.png" tvg-chno="580" group-title="SAMSUNG TV" , tvN í™˜í˜¼
 https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC800016YS" tvg-id="KRBC800016YS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20231114T070150SQUARE.png_20231114070151.png" tvg-chno="585" group-title="SAMSUNG TV" , tvN Ã«Å’â‚¬Ã­Æ’Ë†Ã¬Â¶Å“3
+#EXTINF:-1 channel-id="samsung-KRBC800016YS" tvg-id="KRBC800016YS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20231114T070150SQUARE.png_20231114070151.png" tvg-chno="585" group-title="SAMSUNG TV" , tvN ëŒ€íƒˆì¶œ3
 https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230809T021325SQUARE.png_20230809021327.png" tvg-chno="601" group-title="SAMSUNG TV" , MBN Ã«â€šËœÃ«Å â€ Ã¬Å¾ÂÃ¬â€”Â°Ã¬ÂÂ¸Ã¬ÂÂ´Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230809T021325SQUARE.png_20230809021327.png" tvg-chno="601" group-title="SAMSUNG TV" , MBN ë‚˜ëŠ” ìžì—°ì¸ì´ë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC32000126M" tvg-id="KRBC32000126M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png" tvg-chno="602" group-title="SAMSUNG TV" , ch.Ã­â€¢â€˜Ã­ÂÂ¬Ã­ÂÂ
+#EXTINF:-1 channel-id="samsung-KRBC32000126M" tvg-id="KRBC32000126M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png" tvg-chno="602" group-title="SAMSUNG TV" , ch.í•‘í¬í
 https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230809T021344SQUARE.png_20230809021345.png" tvg-chno="604" group-title="SAMSUNG TV" , SBS ÃªÂ·Â¸ÃªÂ²Æ’Ã¬ÂÂ´ Ã¬â€¢Å’ÃªÂ³Â Ã¬â€¹Â¶Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230809T021344SQUARE.png_20230809021345.png" tvg-chno="604" group-title="SAMSUNG TV" , SBS ê·¸ê²ƒì´ ì•Œê³ ì‹¶ë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png" tvg-chno="607" group-title="SAMSUNG TV" , ÃªÂ³Â Ã«Ââ€¦Ã­â€¢Å“ Ã«Â¯Â¸Ã¬â€¹ÂÃªÂ°â‚¬
+#EXTINF:-1 channel-id="samsung-KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png" tvg-chno="607" group-title="SAMSUNG TV" , ê³ ë…í•œ ë¯¸ì‹ê°€
 https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB500034DY" tvg-id="KRBB500034DY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230809T021301SQUARE.png_20230809021302.png" tvg-chno="609" group-title="SAMSUNG TV" , MBC every1 Ã¬â€“Â´Ã¬â€žÅ“Ã¬â„¢â‚¬ Ã­â€¢Å“ÃªÂµÂ­Ã¬Ââ‚¬ Ã¬Â²ËœÃ¬ÂÅ’Ã¬ÂÂ´Ã¬Â§â‚¬?
+#EXTINF:-1 channel-id="samsung-KRBB500034DY" tvg-id="KRBB500034DY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230809T021301SQUARE.png_20230809021302.png" tvg-chno="609" group-title="SAMSUNG TV" , MBC every1 ì–´ì„œì™€ í•œêµ­ì€ ì²˜ìŒì´ì§€?
 https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png" tvg-chno="610" group-title="SAMSUNG TV" , Ã¬Â±â€žÃ«â€žÂA Ã«â€šËœÃ«Â§Å’ Ã«Â¯Â¿ÃªÂ³Â  Ã«â€Â°Ã«ÂÂ¼Ã¬â„¢â‚¬ Ã«Ââ€žÃ¬â€¹Å“Ã¬â€“Â´Ã«Â¶â‚¬
+#EXTINF:-1 channel-id="samsung-KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png" tvg-chno="610" group-title="SAMSUNG TV" , ì±„ë„A ë‚˜ë§Œ ë¯¿ê³  ë”°ë¼ì™€ ë„ì‹œì–´ë¶€
 https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC35000169K" tvg-id="KRBC35000169K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20230809T021433SQUARE.png_20230809021434.png" tvg-chno="613" group-title="SAMSUNG TV" , TV CHOSUN ÃªÂµÂ­ÃªÂ°â‚¬ÃªÂ°â‚¬ Ã«Â¶â‚¬Ã«Â¥Â¸Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC35000169K" tvg-id="KRBC35000169K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20230809T021433SQUARE.png_20230809021434.png" tvg-chno="613" group-title="SAMSUNG TV" , TV CHOSUN êµ­ê°€ê°€ ë¶€ë¥¸ë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" tvg-chno="614" group-title="SAMSUNG TV" , Ã«Ââ€žÃ«ÂÂ¼Ã«Â§Ë†Ã¬Â½â€Ã«Â¦Â¬Ã¬â€¢â€ž
+#EXTINF:-1 channel-id="samsung-KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" tvg-chno="614" group-title="SAMSUNG TV" , ë„ë¼ë§ˆì½”ë¦¬ì•„
 https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="SAMSUNG TV" , JTBC Ã«â€°Â´Ã¬Å Â¤
+#EXTINF:-1 channel-id="samsung-KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="SAMSUNG TV" , JTBC ë‰´ìŠ¤
 https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="SAMSUNG TV" , Mnet Ã¬Å Â¤Ã­Å Â¸Ã«Â¦Â¿ Ã¬Å¡Â°Ã«Â¨Â¼ Ã­Å’Å’Ã¬ÂÂ´Ã­â€žÂ°
+#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="SAMSUNG TV" , Mnet ìŠ¤íŠ¸ë¦¿ ìš°ë¨¼ íŒŒì´í„°
 https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20230809T021328SQUARE.png_20230809021329.png" tvg-chno="618" group-title="SAMSUNG TV" , MBN Ã«ÂÅ’Ã¬â€¹Â±ÃªÂ¸â‚¬Ã¬Â¦Ë†
+#EXTINF:-1 channel-id="samsung-KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20230809T021328SQUARE.png_20230809021329.png" tvg-chno="618" group-title="SAMSUNG TV" , MBN ëŒì‹±ê¸€ì¦ˆ
 https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20231114T070118SQUARE.png_20231114070120.png" tvg-chno="620" group-title="SAMSUNG TV" , SBS Ã­Å½Å“Ã­Å Â¸Ã­â€¢ËœÃ¬Å¡Â°Ã¬Å Â¤
+#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20231114T070118SQUARE.png_20231114070120.png" tvg-chno="620" group-title="SAMSUNG TV" , SBS íŽœíŠ¸í•˜ìš°ìŠ¤
 https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20231025T004651SQUARE.png_20231025004652.png" tvg-chno="621" group-title="SAMSUNG TV" , MBC Ã«ÂË†ÃªÂ½Æ’
+#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20231025T004651SQUARE.png_20231025004652.png" tvg-chno="621" group-title="SAMSUNG TV" , MBC ëˆê½ƒ
 https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD2000001BN" tvg-id="KRBD2000001BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="SAMSUNG TV" , Ã«Â½â‚¬Ã¬Å¡â€TV
+#EXTINF:-1 channel-id="samsung-KRBD2000001BN" tvg-id="KRBD2000001BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="SAMSUNG TV" , ë½€ìš”TV
 https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="SAMSUNG TV" , MBC Ã¬â€¢Ë†Ã¬â€¹Â¸Ã¬Å¡Â°Ã«Â©Â´ Ã«â€¹Â¤Ã­â€“â€°Ã¬ÂÂ´Ã¬â€¢Â¼
+#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="SAMSUNG TV" , MBC ì•ˆì‹¸ìš°ë©´ ë‹¤í–‰ì´ì•¼
 https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230809T021404SQUARE.png_20230809021405.png" tvg-chno="624" group-title="SAMSUNG TV" , SBS Ã«Â¹Â½Ã«â€œÅ“
+#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230809T021404SQUARE.png_20230809021405.png" tvg-chno="624" group-title="SAMSUNG TV" , SBS ë¹½ë“œ
 https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20231213T033737SQUARE.png_20231213033738.png" tvg-chno="626" group-title="SAMSUNG TV" , Animax Ã­â€¢ËœÃ¬ÂÂ´Ã­ÂÂ!!
+#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20231213T033737SQUARE.png_20231213033738.png" tvg-chno="626" group-title="SAMSUNG TV" , Animax í•˜ì´í!!
 https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="SAMSUNG TV" , MBC every1 Ã«Â³â€žÃ¬Ë†Å“ÃªÂ²â‚¬
+#EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="SAMSUNG TV" , MBC every1 ë³„ìˆœê²€
 https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC41000021C" tvg-id="KRBC41000021C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230809T021523SQUARE.png_20230809021524.png" tvg-chno="628" group-title="SAMSUNG TV" , Ã¬Â±â€žÃ«â€žÂA Ã¬Å¡â€Ã¬Â¦Ëœ Ã¬Å“Â¡Ã¬â€¢â€ž ÃªÂ¸Ë†Ã¬ÂªÂ½ÃªÂ°â„¢Ã¬Ââ‚¬ Ã«â€šÂ´Ã¬Æ’Ë†Ã«ÂÂ¼
+#EXTINF:-1 channel-id="samsung-KRBC41000021C" tvg-id="KRBC41000021C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230809T021523SQUARE.png_20230809021524.png" tvg-chno="628" group-title="SAMSUNG TV" , ì±„ë„A ìš”ì¦˜ ìœ¡ì•„ ê¸ˆìª½ê°™ì€ ë‚´ìƒˆë¼
 https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20230809T021352SQUARE.png_20230809021353.png" tvg-chno="629" group-title="SAMSUNG TV" , SBS Ã«Å¸Â°Ã«â€¹ÂÃ«Â§Â¨
+#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20230809T021352SQUARE.png_20230809021353.png" tvg-chno="629" group-title="SAMSUNG TV" , SBS ëŸ°ë‹ë§¨
 https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20230809T021355SQUARE.png_20230809021356.png" tvg-chno="630" group-title="SAMSUNG TV" , SBS Ã«Â¯Â¸Ã¬Å¡Â´ Ã¬Å¡Â°Ã«Â¦Â¬ Ã¬Æ’Ë†Ã«ÂÂ¼
+#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20230809T021355SQUARE.png_20230809021356.png" tvg-chno="630" group-title="SAMSUNG TV" , SBS ë¯¸ìš´ ìš°ë¦¬ ìƒˆë¼
 https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB500035VF" tvg-id="KRBB500035VF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20231114T070134SQUARE.png_20231114070135.png" tvg-chno="631" group-title="SAMSUNG TV" , Ã¬Â½â€Ã¬Â½â€Ã«Â¹â€žTV
+#EXTINF:-1 channel-id="samsung-KRBB500035VF" tvg-id="KRBB500035VF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20231114T070134SQUARE.png_20231114070135.png" tvg-chno="631" group-title="SAMSUNG TV" , ì½”ì½”ë¹„TV
 https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20231025T004648SQUARE.png_20231025004649.png" tvg-chno="632" group-title="SAMSUNG TV" , MBC Ã¬â€žÂ Ã¬Ââ€ž Ã«â€žËœÃ«Å â€ Ã«â€¦â‚¬Ã¬â€žÂÃ«â€œÂ¤
+#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20231025T004648SQUARE.png_20231025004649.png" tvg-chno="632" group-title="SAMSUNG TV" , MBC ì„ ì„ ë„˜ëŠ” ë…€ì„ë“¤
 https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20230809T021441SQUARE.png_20230809021441.png" tvg-chno="633" group-title="SAMSUNG TV" , TV CHOSUN Ã¬â€¹ÂÃªÂ°Â Ã­â€”Ë†Ã¬ËœÂÃ«Â§Å’Ã¬ÂËœ Ã«Â°Â±Ã«Â°ËœÃªÂ¸Â°Ã­â€“â€°
+#EXTINF:-1 channel-id="samsung-KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20230809T021441SQUARE.png_20230809021441.png" tvg-chno="633" group-title="SAMSUNG TV" , TV CHOSUN ì‹ê° í—ˆì˜ë§Œì˜ ë°±ë°˜ê¸°í–‰
 https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230809T021350SQUARE.png_20230809021351.png" tvg-chno="634" group-title="SAMSUNG TV" , SBS Ã«Ââ„¢Ã¬Æ’ÂÃ¬ÂÂ´Ã«ÂªÂ½2 - Ã«â€žË†Ã«Å â€ Ã«â€šÂ´ Ã¬Å¡Â´Ã«Âªâ€¦
+#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230809T021350SQUARE.png_20230809021351.png" tvg-chno="634" group-title="SAMSUNG TV" , SBS ë™ìƒì´ëª½2 - ë„ˆëŠ” ë‚´ ìš´ëª…
 https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20230809T021358SQUARE.png_20230809021359.png" tvg-chno="635" group-title="SAMSUNG TV" , SBS Ã«Â°Â±Ã¬Â¢â€¦Ã¬â€ºÂÃ¬ÂËœ ÃªÂ³Â¨Ã«ÂªÂ©Ã¬â€¹ÂÃ«â€¹Â¹
+#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20230809T021358SQUARE.png_20230809021359.png" tvg-chno="635" group-title="SAMSUNG TV" , SBS ë°±ì¢…ì›ì˜ ê³¨ëª©ì‹ë‹¹
 https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20230809T021401SQUARE.png_20230809021402.png" tvg-chno="637" group-title="SAMSUNG TV" , SBS Ã«Â¶Ë†Ã­Æ’â‚¬Ã«Å â€ Ã¬Â²Â­Ã¬Â¶Ëœ
+#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20230809T021401SQUARE.png_20230809021402.png" tvg-chno="637" group-title="SAMSUNG TV" , SBS ë¶ˆíƒ€ëŠ” ì²­ì¶˜
 https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20230809T021430SQUARE.png_20230809021431.png" tvg-chno="638" group-title="SAMSUNG TV" , SBS Ã­Å’Â¨Ã«Â°â‚¬Ã«Â¦Â¬ÃªÂ°â‚¬ Ã«â€“Â´Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20230809T021430SQUARE.png_20230809021431.png" tvg-chno="638" group-title="SAMSUNG TV" , SBS íŒ¨ë°€ë¦¬ê°€ ë–´ë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="SAMSUNG TV" , Ã«Â¡Å“Ã«Â³Â´Ã¬Â¹Â´Ã­ÂÂ´Ã«Â¦Â¬ TV
+#EXTINF:-1 channel-id="samsung-KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="SAMSUNG TV" , ë¡œë³´ì¹´í´ë¦¬ TV
 https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png" tvg-chno="644" group-title="SAMSUNG TV" , iHQ Ã«ÂË†Ã¬Â­ÂÃ«â€šÂ´Ã«Å¸Â¬ Ã¬â„¢â€Ã¬Å ÂµÃ«â€¹Ë†Ã«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png" tvg-chno="644" group-title="SAMSUNG TV" , iHQ ëˆì­ë‚´ëŸ¬ ì™”ìŠµë‹ˆë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png" tvg-chno="645" group-title="SAMSUNG TV" , EÃ¬Â±â€žÃ«â€žÂ Ã­â€ Â Ã¬Å¡â€Ã¬ÂÂ¼Ã¬Ââ‚¬ Ã«Â°Â¥Ã¬ÂÂ´ Ã¬Â¢â€¹Ã¬â€¢â€ž
+#EXTINF:-1 channel-id="samsung-KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png" tvg-chno="645" group-title="SAMSUNG TV" , Eì±„ë„ í† ìš”ì¼ì€ ë°¥ì´ ì¢‹ì•„
 https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230809T021254SQUARE.png_20230809021254.png" tvg-chno="646" group-title="SAMSUNG TV" , KBS Joy Ã¬â€”Â°Ã¬â€¢Â Ã¬ÂËœ Ã¬Â°Â¸ÃªÂ²Â¬
+#EXTINF:-1 channel-id="samsung-KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230809T021254SQUARE.png_20230809021254.png" tvg-chno="646" group-title="SAMSUNG TV" , KBS Joy ì—°ì• ì˜ ì°¸ê²¬
 https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png" tvg-chno="647" group-title="SAMSUNG TV" , KBS Joy Ã«Â¬Â´Ã¬â€”â€¡Ã¬ÂÂ´Ã«â€œÂ  Ã«Â¬Â¼Ã¬â€“Â´Ã«Â³Â´Ã¬â€šÂ´
+#EXTINF:-1 channel-id="samsung-KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png" tvg-chno="647" group-title="SAMSUNG TV" , KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20230809T021331SQUARE.png_20230809021332.png" tvg-chno="648" group-title="SAMSUNG TV" , MBN Ã¬â€ ÂÃ­â€™â‚¬Ã¬ÂÂ´Ã¬â€¡Â¼ Ã«Ââ„¢Ã¬Â¹ËœÃ«Â¯Â¸
+#EXTINF:-1 channel-id="samsung-KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20230809T021331SQUARE.png_20230809021332.png" tvg-chno="648" group-title="SAMSUNG TV" , MBN ì†í’€ì´ì‡¼ ë™ì¹˜ë¯¸
 https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230809T021410SQUARE.png_20230809021411.png" tvg-chno="649" group-title="SAMSUNG TV" , SBS Ã¬Ë†Å“ÃªÂ°â€žÃ­ÂÂ¬Ã¬Â°Â© Ã¬â€žÂ¸Ã¬Æ’ÂÃ¬â€”Â Ã¬ÂÂ´Ã«Å¸Â°Ã¬ÂÂ¼Ã¬ÂÂ´
+#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230809T021410SQUARE.png_20230809021411.png" tvg-chno="649" group-title="SAMSUNG TV" , SBS ìˆœê°„í¬ì°© ì„¸ìƒì— ì´ëŸ°ì¼ì´
 https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230809T021407SQUARE.png_20230809021408.png" tvg-chno="651" group-title="SAMSUNG TV" , SBS Ã¬Æ’ÂÃ­â„¢Å“Ã¬ÂËœ Ã«â€¹Â¬Ã¬ÂÂ¸
+#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230809T021407SQUARE.png_20230809021408.png" tvg-chno="651" group-title="SAMSUNG TV" , SBS ìƒí™œì˜ ë‹¬ì¸
 https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="SAMSUNG TV" , MBN Ã­Å“Â´Ã«Â¨Â¼Ã«â€¹Â¤Ã­ÂÂ Ã¬â€šÂ¬Ã«â€¦Â¸Ã«ÂÂ¼Ã«Â©Â´
+#EXTINF:-1 channel-id="samsung-KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="SAMSUNG TV" , MBN íœ´ë¨¼ë‹¤í ì‚¬ë…¸ë¼ë©´
 https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20231206T031616SQUARE.png_20231206031617.png" tvg-chno="653" group-title="SAMSUNG TV" , Ã­Ëœâ€žÃ«Å’â‚¬Ã­â„¢Ë†Ã¬â€¡Â¼Ã­â€¢â€˜
+#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20231206T031616SQUARE.png_20231206031617.png" tvg-chno="653" group-title="SAMSUNG TV" , í˜„ëŒ€í™ˆì‡¼í•‘
 https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="SAMSUNG TV" , Ã¬Å¡Â°Ã«Â¦Â¬Ã¬ÂËœÃ¬â€¹ÂÃ­Æ’Â
+#EXTINF:-1 channel-id="samsung-KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="SAMSUNG TV" , ìš°ë¦¬ì˜ì‹íƒ
 https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD4400001QO" tvg-id="KRBD4400001QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png" tvg-chno="655" group-title="SAMSUNG TV" , Ã¬ÂÂ¸Ã­ÂÂ¬Ã«Â²Â¨ Ã­â„¢Ë†Ã¬â€¡Â¼Ã­â€¢â€˜
+#EXTINF:-1 channel-id="samsung-KRBD4400001QO" tvg-id="KRBD4400001QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png" tvg-chno="655" group-title="SAMSUNG TV" , ì¸í¬ë²¨ í™ˆì‡¼í•‘
 https://i.mjh.nz/SamsungTVPlus/KRBD4400001QO.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20231206T031608SQUARE.png_20231206031609.png" tvg-chno="700" group-title="SAMSUNG TV" , Ã­Ëœâ€žÃ«Å’â‚¬Ã­â„¢Ë†Ã¬â€¡Â¼Ã­â€¢â€˜+Shop
+#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20231206T031608SQUARE.png_20231206031609.png" tvg-chno="700" group-title="SAMSUNG TV" , í˜„ëŒ€í™ˆì‡¼í•‘+Shop
 https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="SAMSUNG TV" , NEW MOVIES
 https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="SAMSUNG TV" , OGN Ã¬Å Â¤Ã­Æ’â‚¬Ã«Â¦Â¬ÃªÂ·Â¸
+#EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="SAMSUNG TV" , OGN ìŠ¤íƒ€ë¦¬ê·¸
 https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20231114T070137SQUARE.png_20231114070138.png" tvg-chno="752" group-title="SAMSUNG TV" , World Billiards TV
@@ -7073,22 +7078,22 @@ https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-KRBB500044GP" tvg-id="KRBB500044GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" tvg-chno="801" group-title="SAMSUNG TV" , Bloomberg Originals
 https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20231101T012207SQUARE.png_20231101012208.png" tvg-chno="802" group-title="SAMSUNG TV" , ÃªÂ¸â‚¬Ã«Â¡Å“Ã«Â²Å’ Ã«â€°Â´Ã¬Å Â¤ by LeadStory
+#EXTINF:-1 channel-id="samsung-KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20231101T012207SQUARE.png_20231101012208.png" tvg-chno="802" group-title="SAMSUNG TV" , ê¸€ë¡œë²Œ ë‰´ìŠ¤ by LeadStory
 https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="SAMSUNG TV" , JTBC Ã¬ÂµÅ“ÃªÂ°â€¢Ã¬â€¢Â¼ÃªÂµÂ¬
+#EXTINF:-1 channel-id="samsung-KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="SAMSUNG TV" , JTBC ìµœê°•ì•¼êµ¬
 https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC5000018O9" tvg-id="KRBC5000018O9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" tvg-chno="839" group-title="SAMSUNG TV" , JTBC ÃªÂ³Â¨Ã­â€â€ž
+#EXTINF:-1 channel-id="samsung-KRBC5000018O9" tvg-id="KRBC5000018O9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" tvg-chno="839" group-title="SAMSUNG TV" , JTBC ê³¨í”„
 https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBD1900001Y2" tvg-id="KRBD1900001Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="SAMSUNG TV" , FIFA+
 https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="SAMSUNG TV" , KBS ÃªÂ°Å“Ã«Å â€ Ã­â€ºÅ’Ã«Â¥Â­Ã­â€¢ËœÃ«â€¹Â¤
+#EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="SAMSUNG TV" , KBS ê°œëŠ” í›Œë¥­í•˜ë‹¤
 https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="SAMSUNG TV" , Ã¬â€Â¨Ã«â€žÂ¤21+
+#EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="SAMSUNG TV" , ì”¨ë„¤21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 
@@ -7335,7 +7340,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3be2d940521074c
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9c6Saop8WN619gpag+DeWg","kid":"zYrk4sTbUxfNXn6+60MFqQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb2b5d940521074dc325f_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#EXTINF:-1 type="" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040516X0-portrait.jpg",TÃƒÂ¡r 2022
+#EXTINF:-1 type="" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040516X0-portrait.jpg",TÃ¡r 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
