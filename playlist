@@ -1822,7 +1822,16 @@ http://51.210.199.14/hls/stream.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="MUSIC",B4U MUSIC
+http://cdn2.pishow.tv/live/141/master.m3u8 
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdK9tsWJcPj6sRdU4YBY8WyokKTfZJa6S3pk-RYnIhzApJs9nEm_-4Wgtj&s=10" group-title="MUSIC",MUSIC INDIA
+http://cdn2.pishow.tv/live/135/master.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifXvc6vOpMwzSUdrHYYRIYaHzj4Q_QfeGLech8XDiHB8a4aPgut-bIga9&s=10" group-title="MUSIC",Joo Music Pakistan
+http://37.49.225.197:8070/bubullea83/fWSgcNAqNOjTif3t/168909
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",VH1
 #EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
@@ -5706,7 +5715,7 @@ http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 http://cdn2.pishow.tv/live/137/master.m3u8
 #EXTINF:0 group-title="INDIA",9xM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
-#EXTINF:0 group-title="INDIA",9xMusic
+#EXTINF:0 group-title="INDIA",usic
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 group-title="INDIA",9TASHAN
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
